@@ -1,0 +1,4982 @@
+{
+    "ABERDEEN": {
+        "station_id": "T6158N",
+        "road_name_x": "NEW ENGLAND",
+        "post_code": "2336"
+    },
+    "Aberdeen": {
+        "station_id": "6158",
+        "road_name_x": "New England Highway",
+        "post_code": "2336"
+    },
+    "Abermain": {
+        "station_id": "05194",
+        "road_name_x": "Cessnock Road",
+        "post_code": "2326"
+    },
+    "Adaminaby": {
+        "station_id": "08158",
+        "road_name_x": "Snowy Mountains Highway",
+        "post_code": "2629"
+    },
+    "Adamstown": {
+        "station_id": "7211",
+        "road_name_x": "Lily Lane",
+        "post_code": "2289"
+    },
+    "Adamstown Heights": {
+        "station_id": "05265",
+        "road_name_x": "City Road",
+        "post_code": "2289"
+    },
+    "Adelong": {
+        "station_id": "95188",
+        "road_name_x": "Grahamstown Road",
+        "post_code": "2729"
+    },
+    "Agnes Banks": {
+        "station_id": "89062",
+        "road_name_x": "Springwood Road",
+        "post_code": "2753"
+    },
+    "Albion Park": {
+        "station_id": "07293",
+        "road_name_x": "Tongarra Road",
+        "post_code": "2527"
+    },
+    "Albion Park Rail": {
+        "station_id": "07038",
+        "road_name_x": "Illawarra Highway",
+        "post_code": "2527"
+    },
+    "Albury": {
+        "station_id": "95679",
+        "road_name_x": "Guinea Street",
+        "post_code": "2640"
+    },
+    "Alexandria": {
+        "station_id": "02245",
+        "road_name_x": "Botany Road",
+        "post_code": "2015"
+    },
+    "Alfredtown": {
+        "station_id": "95001",
+        "road_name_x": "Sturt Highway",
+        "post_code": "2650"
+    },
+    "Alstonville": {
+        "station_id": "04038",
+        "road_name_x": "Bruxner Highway",
+        "post_code": "2477"
+    },
+    "Anabranch South": {
+        "station_id": "98155",
+        "road_name_x": "Silver City Highway",
+        "post_code": "2648"
+    },
+    "Ando": {
+        "station_id": "08072",
+        "road_name_x": "Monaro Highway",
+        "post_code": "2631"
+    },
+    "Anna Bay": {
+        "station_id": "05400",
+        "road_name_x": "Nelson Bay Road",
+        "post_code": "2316"
+    },
+    "Annandale": {
+        "station_id": "19065",
+        "road_name_x": "Parramatta Road",
+        "post_code": "2038"
+    },
+    "Appin": {
+        "station_id": "07742",
+        "road_name_x": "Wilton Road",
+        "post_code": "2560"
+    },
+    "Apsley": {
+        "station_id": "93163",
+        "road_name_x": "Mitchell Highway",
+        "post_code": "2820"
+    },
+    "Arding": {
+        "station_id": "92060",
+        "road_name_x": "New England Highway",
+        "post_code": "2358"
+    },
+    "Ardlethan": {
+        "station_id": "95084",
+        "road_name_x": "Newell Highway",
+        "post_code": "2665"
+    },
+    "Argenton": {
+        "station_id": "05208",
+        "road_name_x": "Lake Road",
+        "post_code": "2284"
+    },
+    "Ariah Park": {
+        "station_id": "95388",
+        "road_name_x": "Burley Griffin Way",
+        "post_code": "2665"
+    },
+    "Armatree": {
+        "station_id": "93153",
+        "road_name_x": "Castlereagh Highway",
+        "post_code": "2828"
+    },
+    "Armidale": {
+        "station_id": "92065",
+        "road_name_x": "New England Highway",
+        "post_code": "2350"
+    },
+    "Arncliffe": {
+        "station_id": "23067",
+        "road_name_x": "Marsh Street",
+        "post_code": "2205"
+    },
+    "Artarmon": {
+        "station_id": "33071",
+        "road_name_x": "Herbert Street",
+        "post_code": "2064"
+    },
+    "Ashfield": {
+        "station_id": "25002",
+        "road_name_x": "Parramatta Road",
+        "post_code": "2131"
+    },
+    "Ashford": {
+        "station_id": "91216",
+        "road_name_x": "Bonshaw Road",
+        "post_code": "2361"
+    },
+    "Ashley": {
+        "station_id": "91322",
+        "road_name_x": "Carnarvon Highway",
+        "post_code": "2400"
+    },
+    "Ashmont": {
+        "station_id": "95062",
+        "road_name_x": "Sturt Highway",
+        "post_code": "2650"
+    },
+    "Asquith": {
+        "station_id": "74202",
+        "road_name_x": "Pacific Highway",
+        "post_code": "2077"
+    },
+    "Auburn": {
+        "station_id": "47002",
+        "road_name_x": "Silverwater Road",
+        "post_code": "2144"
+    },
+    "Avalon Beach": {
+        "station_id": "59106",
+        "road_name_x": "Barrenjoey Road",
+        "post_code": "2107"
+    },
+    "Avoca": {
+        "station_id": "07391",
+        "road_name_x": "Illawarra Highway",
+        "post_code": "2577"
+    },
+    "BALRANALD": {
+        "station_id": "T6727W",
+        "road_name_x": "STURT",
+        "post_code": "2715"
+    },
+    "BAULKHAM HILLS": {
+        "station_id": "72040",
+        "road_name_x": "WINDSOR",
+        "post_code": "2153"
+    },
+    "BELFORD": {
+        "station_id": "T6711N",
+        "road_name_x": "NEW ENGLAND",
+        "post_code": "2335"
+    },
+    "BENDEMEER": {
+        "station_id": "T6723N",
+        "road_name_x": "NEW ENGLAND",
+        "post_code": "2355"
+    },
+    "BEXLEY": {
+        "station_id": "23039",
+        "road_name_x": "BEXLEY",
+        "post_code": "2207"
+    },
+    "BLAKEHURST": {
+        "station_id": "36191",
+        "road_name_x": "PRINCES",
+        "post_code": "2221"
+    },
+    "BROKEN HILL": {
+        "station_id": "T6729W",
+        "road_name_x": "BARRIER",
+        "post_code": "2880"
+    },
+    "Balgowlah": {
+        "station_id": "34028",
+        "road_name_x": "Burnt Bridge Creek Deviation",
+        "post_code": "2093"
+    },
+    "Ballina": {
+        "station_id": "04058",
+        "road_name_x": "Tamarind Drive",
+        "post_code": "2478"
+    },
+    "Balranald": {
+        "station_id": "97482",
+        "road_name_x": "Ivanhoe Road",
+        "post_code": "2715"
+    },
+    "Bangalow": {
+        "station_id": "04065",
+        "road_name_x": "Granuaille Road",
+        "post_code": "2479"
+    },
+    "Banksia": {
+        "station_id": "23019",
+        "road_name_x": "Princes Highway",
+        "post_code": "2216"
+    },
+    "Banksmeadow": {
+        "station_id": "16013",
+        "road_name_x": "Botany Road",
+        "post_code": "2019"
+    },
+    "Bankstown": {
+        "station_id": "43003",
+        "road_name_x": "Stacey Street",
+        "post_code": "2200"
+    },
+    "Bar Point": {
+        "station_id": "F3FWY004",
+        "road_name_x": "Pacific Motorway",
+        "post_code": "2083"
+    },
+    "Barden Ridge": {
+        "station_id": "37122",
+        "road_name_x": "New Illawarra Road",
+        "post_code": "2234"
+    },
+    "Barellan": {
+        "station_id": "95302",
+        "road_name_x": "Burley Griffin Way",
+        "post_code": "2665"
+    },
+    "Bargo": {
+        "station_id": "BRGSTC",
+        "road_name_x": "Hume Motorway",
+        "post_code": "2574"
+    },
+    "Barham": {
+        "station_id": "97216",
+        "road_name_x": "Moulamein Road",
+        "post_code": "2732"
+    },
+    "Barmedman": {
+        "station_id": "95149",
+        "road_name_x": "Goldfields Way",
+        "post_code": "2668"
+    },
+    "Barooga": {
+        "station_id": "97273",
+        "road_name_x": "Hughes Street",
+        "post_code": "3644"
+    },
+    "Barraganyatti": {
+        "station_id": "09149",
+        "road_name_x": "Pacific Highway",
+        "post_code": "2441"
+    },
+    "Barragga Bay": {
+        "station_id": "08104",
+        "road_name_x": "Tathra-Bermagui Road",
+        "post_code": "2546"
+    },
+    "Barrington": {
+        "station_id": "09892",
+        "road_name_x": "Thunderbolts Way",
+        "post_code": "2422"
+    },
+    "Barringun": {
+        "station_id": "96173",
+        "road_name_x": "Mitchell Highway",
+        "post_code": "2810"
+    },
+    "Bateau Bay": {
+        "station_id": "05913",
+        "road_name_x": "The Entrance Road",
+        "post_code": "2261"
+    },
+    "Batehaven": {
+        "station_id": "08101",
+        "road_name_x": "Beach Road",
+        "post_code": "2536"
+    },
+    "Batemans Bay": {
+        "station_id": "08360",
+        "road_name_x": "Vesper Street",
+        "post_code": "2536"
+    },
+    "Bathampton": {
+        "station_id": "99612",
+        "road_name_x": "Mid Western Highway",
+        "post_code": "2795"
+    },
+    "Bathurst": {
+        "station_id": "99307",
+        "road_name_x": "Brilliant Street",
+        "post_code": "2795"
+    },
+    "Batlow": {
+        "station_id": "95191",
+        "road_name_x": "Batlow Road",
+        "post_code": "2730"
+    },
+    "Baulkham Hills": {
+        "station_id": "72027",
+        "road_name_x": "Windsor Road",
+        "post_code": "2153"
+    },
+    "Beacon Hill": {
+        "station_id": "55036",
+        "road_name_x": "Warringah Road",
+        "post_code": "2100"
+    },
+    "Beckom": {
+        "station_id": "95087",
+        "road_name_x": "Newell Highway",
+        "post_code": "2665"
+    },
+    "Bective": {
+        "station_id": "6194",
+        "road_name_x": "Oxley Highway",
+        "post_code": "2340"
+    },
+    "Beecroft": {
+        "station_id": "74439",
+        "road_name_x": "Wongala Crescent",
+        "post_code": "2119"
+    },
+    "Bega": {
+        "station_id": "08091",
+        "road_name_x": "Newtown Road",
+        "post_code": "2550"
+    },
+    "Belfield": {
+        "station_id": "24021",
+        "road_name_x": "Punchbowl Road",
+        "post_code": "2191"
+    },
+    "Belfrayden": {
+        "station_id": "95204",
+        "road_name_x": "Lockhart Road",
+        "post_code": "2650"
+    },
+    "Bell": {
+        "station_id": "99037",
+        "road_name_x": "Chifley Road",
+        "post_code": "2786"
+    },
+    "Bellimbopinni": {
+        "station_id": "09145",
+        "road_name_x": "Pacific Highway",
+        "post_code": "2440"
+    },
+    "Belmont": {
+        "station_id": "05213",
+        "road_name_x": "Croudace Bay Road",
+        "post_code": "2280"
+    },
+    "Belmont South": {
+        "station_id": "05255",
+        "road_name_x": "Pacific Highway",
+        "post_code": "2280"
+    },
+    "Belrose": {
+        "station_id": "57011",
+        "road_name_x": "Mona Vale Road",
+        "post_code": "2085"
+    },
+    "Bemboka": {
+        "station_id": "08151",
+        "road_name_x": "Snowy Mountains Highway",
+        "post_code": "2550"
+    },
+    "Bendemeer": {
+        "station_id": "92034",
+        "road_name_x": "New England Highway",
+        "post_code": "2355"
+    },
+    "Bendoura": {
+        "station_id": "94807",
+        "road_name_x": "Cooma Road",
+        "post_code": "2622"
+    },
+    "Beresfield": {
+        "station_id": "05057",
+        "road_name_x": "New England Highway",
+        "post_code": "2322"
+    },
+    "Bergalia": {
+        "station_id": "08127",
+        "road_name_x": "Princes Highway",
+        "post_code": "2537"
+    },
+    "Bermagui": {
+        "station_id": "08113",
+        "road_name_x": "Bunga Street",
+        "post_code": "2546"
+    },
+    "Berowra": {
+        "station_id": "76025",
+        "road_name_x": "Pacific Motorway",
+        "post_code": "2081"
+    },
+    "Berridale": {
+        "station_id": "08213",
+        "road_name_x": "Jindabyne Road",
+        "post_code": "2628"
+    },
+    "Berrigan": {
+        "station_id": "97258",
+        "road_name_x": "Oaklands Road",
+        "post_code": "2712"
+    },
+    "Berry": {
+        "station_id": "07803",
+        "road_name_x": "Princes Highway",
+        "post_code": "2535"
+    },
+    "Beverly Hills": {
+        "station_id": "24009",
+        "road_name_x": "King Georges Road",
+        "post_code": "2209"
+    },
+    "Bexhill": {
+        "station_id": "04055",
+        "road_name_x": "Coleman Street",
+        "post_code": "2480"
+    },
+    "Bexley": {
+        "station_id": "23032",
+        "road_name_x": "Forest Road",
+        "post_code": "2207"
+    },
+    "Biddon": {
+        "station_id": "T0497",
+        "road_name_x": "Newell Highway",
+        "post_code": "2827"
+    },
+    "Binda": {
+        "station_id": "94805",
+        "road_name_x": "Queen Street",
+        "post_code": "2583"
+    },
+    "Biniguy": {
+        "station_id": "91341",
+        "road_name_x": "Gwydir Highway",
+        "post_code": "2399"
+    },
+    "Birmingham Gardens": {
+        "station_id": "05922",
+        "road_name_x": "Wilkinson Avenue",
+        "post_code": "2287"
+    },
+    "Black Hill": {
+        "station_id": "05018",
+        "road_name_x": "Pacific Motorway",
+        "post_code": "2322"
+    },
+    "Black Mountain": {
+        "station_id": "92731",
+        "road_name_x": "New England Highway",
+        "post_code": "2365"
+    },
+    "Blackheath": {
+        "station_id": "99231",
+        "road_name_x": "Great Western Highway",
+        "post_code": "2785"
+    },
+    "Blackmans Flat": {
+        "station_id": "99253",
+        "road_name_x": "Castlereagh Highway",
+        "post_code": "2790"
+    },
+    "Blackmans Point": {
+        "station_id": "6126",
+        "road_name_x": "Pacific Highway",
+        "post_code": "2444"
+    },
+    "Blacktown": {
+        "station_id": "69198",
+        "road_name_x": "Sunnyholt Road",
+        "post_code": "2148"
+    },
+    "Blackwall": {
+        "station_id": "05104",
+        "road_name_x": "Memorial Avenue",
+        "post_code": "2256"
+    },
+    "Blakehurst": {
+        "station_id": "36001",
+        "road_name_x": "Princes Highway",
+        "post_code": "2221"
+    },
+    "Blayney": {
+        "station_id": "93653",
+        "road_name_x": "Adelaide Street",
+        "post_code": "2799"
+    },
+    "Blue Haven": {
+        "station_id": "05013",
+        "road_name_x": "Pacific Highway",
+        "post_code": "2262"
+    },
+    "Blue Mountains National Park": {
+        "station_id": "99038",
+        "road_name_x": "Bells Line Of Road",
+        "post_code": "2686"
+    },
+    "Boambee": {
+        "station_id": "04146",
+        "road_name_x": "Pacific Highway",
+        "post_code": "2450"
+    },
+    "Boambee East": {
+        "station_id": "04144",
+        "road_name_x": "Pacific Highway",
+        "post_code": "2452"
+    },
+    "Bodalla": {
+        "station_id": "08062",
+        "road_name_x": "Princes Highway",
+        "post_code": "2545"
+    },
+    "Boggabilla": {
+        "station_id": "91506",
+        "road_name_x": "Bruxner Highway",
+        "post_code": "2409"
+    },
+    "Bolivia": {
+        "station_id": "91169",
+        "road_name_x": "New England Highway",
+        "post_code": "2372"
+    },
+    "Bolong": {
+        "station_id": "07449",
+        "road_name_x": "Bolong Road",
+        "post_code": "2540"
+    },
+    "Bolwarra Heights": {
+        "station_id": "05344",
+        "road_name_x": "Paterson Road",
+        "post_code": "2320"
+    },
+    "Bomaderry": {
+        "station_id": "07051",
+        "road_name_x": "Princes Highway",
+        "post_code": "2541"
+    },
+    "Bombala": {
+        "station_id": "08075",
+        "road_name_x": "Delegate Road",
+        "post_code": "2632"
+    },
+    "Bombo": {
+        "station_id": "07804",
+        "road_name_x": "Princes Highway",
+        "post_code": "2533"
+    },
+    "Bombowlee": {
+        "station_id": "95539",
+        "road_name_x": "Wee Jasper Road",
+        "post_code": "2720"
+    },
+    "Bondi Junction": {
+        "station_id": "10052",
+        "road_name_x": "Syd Einfeld Drive",
+        "post_code": "2022"
+    },
+    "Bonnyrigg": {
+        "station_id": "65011",
+        "road_name_x": "Elizabeth Drive",
+        "post_code": "2177"
+    },
+    "Bookham": {
+        "station_id": "HHW005",
+        "road_name_x": "Hume Highway",
+        "post_code": "2582"
+    },
+    "Boolambayte": {
+        "station_id": "09907",
+        "road_name_x": "Pacific Highway",
+        "post_code": "2423"
+    },
+    "Boolaroo": {
+        "station_id": "05977",
+        "road_name_x": "T C Frith Avenue",
+        "post_code": "2284"
+    },
+    "Booroorban": {
+        "station_id": "97234",
+        "road_name_x": "Cobb Highway",
+        "post_code": "2710"
+    },
+    "Boorowa": {
+        "station_id": "94091",
+        "road_name_x": "Lachlan Valley Way",
+        "post_code": "2586"
+    },
+    "Boree": {
+        "station_id": "93235",
+        "road_name_x": "Henry Parkes Way",
+        "post_code": "2800"
+    },
+    "Borenore": {
+        "station_id": "93859",
+        "road_name_x": "The Escort Way",
+        "post_code": "2800"
+    },
+    "Bossley Park": {
+        "station_id": "65151",
+        "road_name_x": "Cowpasture Road",
+        "post_code": "2176"
+    },
+    "Botany": {
+        "station_id": "16088",
+        "road_name_x": "Foreshore Road",
+        "post_code": "2019"
+    },
+    "Bourke": {
+        "station_id": "96081",
+        "road_name_x": "Mitchell Highway",
+        "post_code": "2840"
+    },
+    "Bowenfels": {
+        "station_id": "99238",
+        "road_name_x": "Great Western Highway",
+        "post_code": "2790"
+    },
+    "Bowna": {
+        "station_id": "95037",
+        "road_name_x": "Bowna Road",
+        "post_code": "2644"
+    },
+    "Bowning": {
+        "station_id": "6135-PR",
+        "road_name_x": "Hume Highway",
+        "post_code": "2582"
+    },
+    "Bowral": {
+        "station_id": "07365",
+        "road_name_x": "Moss Vale Road",
+        "post_code": "2576"
+    },
+    "Bradbury": {
+        "station_id": "83013",
+        "road_name_x": "Appin Road",
+        "post_code": "2560"
+    },
+    "Braefield": {
+        "station_id": "92350",
+        "road_name_x": "Kamilaroi Highway",
+        "post_code": "2339"
+    },
+    "Braemar": {
+        "station_id": "07002",
+        "road_name_x": "Old Hume Highway",
+        "post_code": "2575"
+    },
+    "Braidwood": {
+        "station_id": "94281",
+        "road_name_x": "Wallace Street",
+        "post_code": "2622"
+    },
+    "Branxton": {
+        "station_id": "05033",
+        "road_name_x": "Hunter Expressway",
+        "post_code": "2335"
+    },
+    "Braunstone": {
+        "station_id": "04185",
+        "road_name_x": "Orara Way",
+        "post_code": "2460"
+    },
+    "Bredbo": {
+        "station_id": "6114",
+        "road_name_x": "Monaro Highway",
+        "post_code": "2626"
+    },
+    "Breeza": {
+        "station_id": "92348",
+        "road_name_x": "Kamilaroi Highway",
+        "post_code": "2381"
+    },
+    "Brewarrina": {
+        "station_id": "96227",
+        "road_name_x": "Kamilaroi Highway",
+        "post_code": "2839"
+    },
+    "Brighton-Le-Sands": {
+        "station_id": "23055",
+        "road_name_x": "General Holmes Drive",
+        "post_code": "2216"
+    },
+    "Bringelly": {
+        "station_id": "85026",
+        "road_name_x": "The Northern Road",
+        "post_code": "2556"
+    },
+    "Bringenbrong": {
+        "station_id": "95525",
+        "road_name_x": "Alpine Way",
+        "post_code": "3707"
+    },
+    "Broadmeadow": {
+        "station_id": "05205",
+        "road_name_x": "Belford Street",
+        "post_code": "2292"
+    },
+    "Broadwater": {
+        "station_id": "04116",
+        "road_name_x": "Pacific Highway",
+        "post_code": "2472"
+    },
+    "Brocklesby": {
+        "station_id": "95847",
+        "road_name_x": "Kywong-Howlong Road",
+        "post_code": "2642"
+    },
+    "Brockley": {
+        "station_id": "91295",
+        "road_name_x": "Guyra Road",
+        "post_code": "2365"
+    },
+    "Broken Head": {
+        "station_id": "04674",
+        "road_name_x": "Byron Bay Road",
+        "post_code": "2481"
+    },
+    "Broken Hill": {
+        "station_id": "98002",
+        "road_name_x": "Silver City Highway",
+        "post_code": "2880"
+    },
+    "Brookvale": {
+        "station_id": "55022",
+        "road_name_x": "Pittwater Road",
+        "post_code": "2100"
+    },
+    "Brownsville": {
+        "station_id": "113526",
+        "road_name_x": "Southern Fwy - Site 1",
+        "post_code": "2530"
+    },
+    "Brucedale": {
+        "station_id": "95137",
+        "road_name_x": "Olympic Highway",
+        "post_code": "2650"
+    },
+    "Brunswick Heads": {
+        "station_id": "04270",
+        "road_name_x": "Old Pacific Highway",
+        "post_code": "2483"
+    },
+    "Buchanan": {
+        "station_id": "05197",
+        "road_name_x": "John Renshaw Drive",
+        "post_code": "2323"
+    },
+    "Bulahdelah": {
+        "station_id": "09909",
+        "road_name_x": "Pacific Highway",
+        "post_code": "2423"
+    },
+    "Bullaburra": {
+        "station_id": "99043",
+        "road_name_x": "Great Western Highway",
+        "post_code": "2784"
+    },
+    "Bullarah": {
+        "station_id": "91119",
+        "road_name_x": "Gwydir Highway",
+        "post_code": "2400"
+    },
+    "Bulli": {
+        "station_id": "07747",
+        "road_name_x": "Princes Highway",
+        "post_code": "2516"
+    },
+    "Bundure": {
+        "station_id": "97036",
+        "road_name_x": "Newell Highway",
+        "post_code": "2700"
+    },
+    "Bungawalbin": {
+        "station_id": "04392",
+        "road_name_x": "Woodburn-Coraki Road",
+        "post_code": "2469"
+    },
+    "Bungendore": {
+        "station_id": "94143",
+        "road_name_x": "Tarago Road",
+        "post_code": "2621"
+    },
+    "Bunnan": {
+        "station_id": "92320",
+        "road_name_x": "Bunnan Road",
+        "post_code": "2337"
+    },
+    "Bunyan": {
+        "station_id": "08082",
+        "road_name_x": "Monaro Highway",
+        "post_code": "2630"
+    },
+    "Buronga": {
+        "station_id": "98063",
+        "road_name_x": "Sturt Highway",
+        "post_code": "2739"
+    },
+    "Burra": {
+        "station_id": "95507",
+        "road_name_x": "Tooma Road",
+        "post_code": "2653"
+    },
+    "Burrell Creek": {
+        "station_id": "09338",
+        "road_name_x": "The Bucketts Way",
+        "post_code": "2429"
+    },
+    "Burren Junction": {
+        "station_id": "96529",
+        "road_name_x": "Kamilaroi Highway",
+        "post_code": "2386"
+    },
+    "Burrill Lake": {
+        "station_id": "07063",
+        "road_name_x": "Princes Highway",
+        "post_code": "2539"
+    },
+    "Burringbar": {
+        "station_id": "04078",
+        "road_name_x": "Tweed Valley Way",
+        "post_code": "2483"
+    },
+    "Burrumbuttock": {
+        "station_id": "95465",
+        "road_name_x": "Urana Road",
+        "post_code": "2642"
+    },
+    "Burrundulla": {
+        "station_id": "99922",
+        "road_name_x": "Castlereagh Highway",
+        "post_code": "2850"
+    },
+    "Byron Bay": {
+        "station_id": "04167",
+        "road_name_x": "Bangalow Road",
+        "post_code": "2481"
+    },
+    "Bywong": {
+        "station_id": "94479",
+        "road_name_x": "Bungendore Road",
+        "post_code": "2621"
+    },
+    "CANTERBURY": {
+        "station_id": "24223",
+        "road_name_x": "CANTERBURY",
+        "post_code": "2193"
+    },
+    "CARAGABAL": {
+        "station_id": "T6715N",
+        "road_name_x": "NEWELL",
+        "post_code": "2810"
+    },
+    "CASINO": {
+        "station_id": "T6733N",
+        "road_name_x": "SUMMERLAND",
+        "post_code": "2470"
+    },
+    "CONDOBOLIN": {
+        "station_id": "Condobolin",
+        "road_name_x": "CONDOBOLIN-TULLAMORE",
+        "post_code": "2877"
+    },
+    "COWAN": {
+        "station_id": "76002",
+        "road_name_x": "PACIFIC",
+        "post_code": "2081"
+    },
+    "CUNDUMBUL": {
+        "station_id": "T6170N",
+        "road_name_x": "MITCHELL",
+        "post_code": "2866"
+    },
+    "Cabramatta": {
+        "station_id": "60163",
+        "road_name_x": "Hume Highway",
+        "post_code": "2166"
+    },
+    "Calala": {
+        "station_id": "92001",
+        "road_name_x": "New England Highway",
+        "post_code": "2340"
+    },
+    "Caldwell": {
+        "station_id": "97210",
+        "road_name_x": "Barham Road",
+        "post_code": "2710"
+    },
+    "Calga": {
+        "station_id": "F3FWY005",
+        "road_name_x": "Pacific Motorway",
+        "post_code": "2250"
+    },
+    "Callaghan": {
+        "station_id": "05675",
+        "road_name_x": "University Drive",
+        "post_code": "2308"
+    },
+    "Cameron Park": {
+        "station_id": "05496",
+        "road_name_x": "Newcastle Link Road",
+        "post_code": "2285"
+    },
+    "Cammeray": {
+        "station_id": "21032",
+        "road_name_x": "Strathallen Avenue",
+        "post_code": "2062"
+    },
+    "Campbelltown": {
+        "station_id": "7104-PR",
+        "road_name_x": "Broughton Street",
+        "post_code": "2560"
+    },
+    "Camperdown": {
+        "station_id": "02015",
+        "road_name_x": "City Road",
+        "post_code": "2050"
+    },
+    "Campvale": {
+        "station_id": "05648",
+        "road_name_x": "Richardson Road",
+        "post_code": "2318"
+    },
+    "Canley Heights": {
+        "station_id": "100001",
+        "road_name_x": "Cambridge Street",
+        "post_code": "2166"
+    },
+    "Canowindra": {
+        "station_id": "93409",
+        "road_name_x": "Canowindra Road",
+        "post_code": "2804"
+    },
+    "Canterbury": {
+        "station_id": "24213",
+        "road_name_x": "Canterbury Road",
+        "post_code": "2193"
+    },
+    "Carabost": {
+        "station_id": "95492",
+        "road_name_x": "Tumbarumba Road",
+        "post_code": "2650"
+    },
+    "Caragabal": {
+        "station_id": "93114",
+        "road_name_x": "Mid Western Highway",
+        "post_code": "2810"
+    },
+    "Cardiff": {
+        "station_id": "05568",
+        "road_name_x": "Main Road",
+        "post_code": "2285"
+    },
+    "Cardiff Heights": {
+        "station_id": "05692",
+        "road_name_x": "Wallsend Road",
+        "post_code": "2285"
+    },
+    "Caringbah": {
+        "station_id": "36035",
+        "road_name_x": "Kingsway",
+        "post_code": "2229"
+    },
+    "Carlingford": {
+        "station_id": "50231",
+        "road_name_x": "Marsden Road",
+        "post_code": "2118"
+    },
+    "Carrathool": {
+        "station_id": "97122",
+        "road_name_x": "Sturt Highway",
+        "post_code": "2711"
+    },
+    "Carrington": {
+        "station_id": "05873",
+        "road_name_x": "Elizabeth Street",
+        "post_code": "2294"
+    },
+    "Carroll": {
+        "station_id": "92046",
+        "road_name_x": "Oxley Highway",
+        "post_code": "2340"
+    },
+    "Carss Park": {
+        "station_id": "40017",
+        "road_name_x": "Princes Highway",
+        "post_code": "2221"
+    },
+    "Carwoola": {
+        "station_id": "94145",
+        "road_name_x": "Kings Highway",
+        "post_code": "2620"
+    },
+    "Casino": {
+        "station_id": "04164",
+        "road_name_x": "Summerland Way",
+        "post_code": "2470"
+    },
+    "Castle Hill": {
+        "station_id": "7150",
+        "road_name_x": "Showground Road",
+        "post_code": "2154"
+    },
+    "Castlecrag": {
+        "station_id": "33023",
+        "road_name_x": "Eastern Valley Way",
+        "post_code": "2068"
+    },
+    "Castlereagh": {
+        "station_id": "87048",
+        "road_name_x": "Castlereagh Road",
+        "post_code": "2749"
+    },
+    "Casula": {
+        "station_id": "62001",
+        "road_name_x": "Hume Highway",
+        "post_code": "2170"
+    },
+    "Cataract": {
+        "station_id": "07603",
+        "road_name_x": "Mount Ousley Road",
+        "post_code": "2560"
+    },
+    "Cathcart": {
+        "station_id": "08199",
+        "road_name_x": "Cathcart Road",
+        "post_code": "2632"
+    },
+    "Cecil Hills": {
+        "station_id": "64022",
+        "road_name_x": "Elizabeth Drive",
+        "post_code": "2171"
+    },
+    "Cedar Party": {
+        "station_id": "09192",
+        "road_name_x": "Comboyne Road",
+        "post_code": "2429"
+    },
+    "Cedar Point": {
+        "station_id": "04341",
+        "road_name_x": "Summerland Way",
+        "post_code": "2474"
+    },
+    "Centennial Park": {
+        "station_id": "10032",
+        "road_name_x": "Oxford Street",
+        "post_code": "2021"
+    },
+    "Central Mangrove": {
+        "station_id": "05122",
+        "road_name_x": "George Downes Drive",
+        "post_code": "2250"
+    },
+    "Central Tilba": {
+        "station_id": "08065",
+        "road_name_x": "Princes Highway",
+        "post_code": "2546"
+    },
+    "Cessnock": {
+        "station_id": "05522",
+        "road_name_x": "Maitland Road",
+        "post_code": "2325"
+    },
+    "Charlestown": {
+        "station_id": "05166",
+        "road_name_x": "Charlestown Road",
+        "post_code": "2290"
+    },
+    "Chatswood": {
+        "station_id": "33026",
+        "road_name_x": "Penshurst Street",
+        "post_code": "2067"
+    },
+    "Cheltenham": {
+        "station_id": "74229",
+        "road_name_x": "Beecroft Road",
+        "post_code": "2119"
+    },
+    "Cherrybrook": {
+        "station_id": "72028",
+        "road_name_x": "Castle Hill Road",
+        "post_code": "2126"
+    },
+    "Chester Hill": {
+        "station_id": "43231",
+        "road_name_x": "Chester Hill Road",
+        "post_code": "2162"
+    },
+    "Chinderah": {
+        "station_id": "THSTC",
+        "road_name_x": "Pacific Motorway",
+        "post_code": "2487"
+    },
+    "Chippendale": {
+        "station_id": "02056",
+        "road_name_x": "Abercrombie Street",
+        "post_code": "2008"
+    },
+    "Clarenza": {
+        "station_id": "04002",
+        "road_name_x": "Pacific Highway",
+        "post_code": "2460"
+    },
+    "Clifton": {
+        "station_id": "07754",
+        "road_name_x": "Lawrence Hargrave Drive",
+        "post_code": "2515"
+    },
+    "Clothiers Creek": {
+        "station_id": "CCSTC",
+        "road_name_x": "Pacific Motorway",
+        "post_code": "2484"
+    },
+    "Clyde": {
+        "station_id": "49011",
+        "road_name_x": "James Ruse Drive",
+        "post_code": "2142"
+    },
+    "Cobar": {
+        "station_id": "96001",
+        "road_name_x": "Nyngan Road",
+        "post_code": "2835"
+    },
+    "Cobargo": {
+        "station_id": "08114",
+        "road_name_x": "Cobargo Bermagui Road",
+        "post_code": "2550"
+    },
+    "Coffs Harbour": {
+        "station_id": "04249",
+        "road_name_x": "Grafton Street",
+        "post_code": "2450"
+    },
+    "Coleambally": {
+        "station_id": "97246",
+        "road_name_x": "Kidman Way",
+        "post_code": "2707"
+    },
+    "Colebee": {
+        "station_id": "71043",
+        "road_name_x": "Summerland Crescent",
+        "post_code": "2761"
+    },
+    "Collarenebri": {
+        "station_id": "96066",
+        "road_name_x": "Gwydir Highway",
+        "post_code": "2833"
+    },
+    "Collaroy": {
+        "station_id": "55049",
+        "road_name_x": "Pittwater Road",
+        "post_code": "2097"
+    },
+    "Collector": {
+        "station_id": "6110",
+        "road_name_x": "Federal Highway",
+        "post_code": "2581"
+    },
+    "Collingullie": {
+        "station_id": "95066",
+        "road_name_x": "Sturt Highway",
+        "post_code": "2650"
+    },
+    "Conargo": {
+        "station_id": "97238",
+        "road_name_x": "Conargo Road",
+        "post_code": "2710"
+    },
+    "Conjola": {
+        "station_id": "07060",
+        "road_name_x": "Princes Highway",
+        "post_code": "2539"
+    },
+    "Constitution Hill": {
+        "station_id": "50250",
+        "road_name_x": "Hart Drive",
+        "post_code": "2145"
+    },
+    "Coolac": {
+        "station_id": "6136",
+        "road_name_x": "Hume Highway",
+        "post_code": "2727"
+    },
+    "Coolah": {
+        "station_id": "RLXT001",
+        "road_name_x": "Black Stump Way",
+        "post_code": "2843"
+    },
+    "Coolamon": {
+        "station_id": "95301",
+        "road_name_x": "Coolamon Road",
+        "post_code": "2701"
+    },
+    "Coolringdon": {
+        "station_id": "08081",
+        "road_name_x": "Snowy Mountains Highway",
+        "post_code": "2630"
+    },
+    "Cooma": {
+        "station_id": "08154",
+        "road_name_x": "Sharp Street",
+        "post_code": "2630"
+    },
+    "Coomealla": {
+        "station_id": "98284",
+        "road_name_x": "Silver City Highway",
+        "post_code": "2717"
+    },
+    "Coonabarabran": {
+        "station_id": "92075",
+        "road_name_x": "Newell Highway",
+        "post_code": "2357"
+    },
+    "Coonamble": {
+        "station_id": "96036",
+        "road_name_x": "Castlereagh Highway",
+        "post_code": "2829"
+    },
+    "Cooperabung": {
+        "station_id": "09295",
+        "road_name_x": "Pacific Highway",
+        "post_code": "2441"
+    },
+    "Coopers Gully": {
+        "station_id": "08131",
+        "road_name_x": "Princes Highway",
+        "post_code": "2550"
+    },
+    "Cootamundra": {
+        "station_id": "94073",
+        "road_name_x": "Sutton Street",
+        "post_code": "2590"
+    },
+    "Copmanhurst": {
+        "station_id": "04413",
+        "road_name_x": "Clarence Way",
+        "post_code": "2460"
+    },
+    "Cordeaux": {
+        "station_id": "07134",
+        "road_name_x": "Picton Road",
+        "post_code": "2526"
+    },
+    "Corowa": {
+        "station_id": "95594",
+        "road_name_x": "Bow Street",
+        "post_code": "2646"
+    },
+    "Cowan": {
+        "station_id": "76001",
+        "road_name_x": "Pacific Highway",
+        "post_code": "2081"
+    },
+    "Cowper": {
+        "station_id": "04023",
+        "road_name_x": "Pacific Highway",
+        "post_code": "2460"
+    },
+    "Cowra": {
+        "station_id": "93103",
+        "road_name_x": "Mid Western Highway",
+        "post_code": "2794"
+    },
+    "Crackenback": {
+        "station_id": "08312",
+        "road_name_x": "Alpine Way",
+        "post_code": "2627"
+    },
+    "Crestwood": {
+        "station_id": "94150",
+        "road_name_x": "Uriarra Road",
+        "post_code": "2620"
+    },
+    "Crooked Corner": {
+        "station_id": "94455",
+        "road_name_x": "Junction Point Road",
+        "post_code": "2583"
+    },
+    "Crookwell": {
+        "station_id": "94234",
+        "road_name_x": "Boorowa Road",
+        "post_code": "2583"
+    },
+    "Croom": {
+        "station_id": "RD001",
+        "road_name_x": "Princes Highway",
+        "post_code": "2527"
+    },
+    "Crows Nest": {
+        "station_id": "21118",
+        "road_name_x": "Falcon Street",
+        "post_code": "2065"
+    },
+    "Croydon": {
+        "station_id": "26149",
+        "road_name_x": "Liverpool Road",
+        "post_code": "2132"
+    },
+    "Croydon Park": {
+        "station_id": "24214",
+        "road_name_x": "Brighton Avenue",
+        "post_code": "2133"
+    },
+    "Cudal": {
+        "station_id": "93417",
+        "road_name_x": "The Escort Way",
+        "post_code": "2864"
+    },
+    "Cudgegong": {
+        "station_id": "99170",
+        "road_name_x": "Castlereagh Highway",
+        "post_code": "2850"
+    },
+    "Cudgel": {
+        "station_id": "95308",
+        "road_name_x": "Irrigation Way",
+        "post_code": "2700"
+    },
+    "Culcairn": {
+        "station_id": "95181",
+        "road_name_x": "Balfour Street",
+        "post_code": "2660"
+    },
+    "Cundumbul": {
+        "station_id": "6170",
+        "road_name_x": "Mitchell Highway",
+        "post_code": "2866"
+    },
+    "Cunningar": {
+        "station_id": "94095",
+        "road_name_x": "Burley Griffin Way",
+        "post_code": "2587"
+    },
+    "Curlewis": {
+        "station_id": "92162",
+        "road_name_x": "Kamilaroi Highway",
+        "post_code": "2381"
+    },
+    "Currabubula": {
+        "station_id": "92344",
+        "road_name_x": "Werris Creek Road",
+        "post_code": "2342"
+    },
+    "Curramore": {
+        "station_id": "07313",
+        "road_name_x": "Jamberoo Road",
+        "post_code": "2533"
+    },
+    "DAWES POINT": {
+        "station_id": "01001N",
+        "road_name_x": "NETWORK CHANGE DO NOT LOAD DATA - BRADFIELD",
+        "post_code": "2000"
+    },
+    "Dairy Flat": {
+        "station_id": "04298",
+        "road_name_x": "Summerland Way",
+        "post_code": "2474"
+    },
+    "Dalton": {
+        "station_id": "94245",
+        "road_name_x": "Dalton Road",
+        "post_code": "2581"
+    },
+    "Dapto": {
+        "station_id": "113812",
+        "road_name_x": "Southern Fwy - Site 2",
+        "post_code": "2530"
+    },
+    "Darlinghurst": {
+        "station_id": "02151",
+        "road_name_x": "Oxford Street",
+        "post_code": "2010"
+    },
+    "Darlington": {
+        "station_id": "02037",
+        "road_name_x": "Cleveland Street",
+        "post_code": "2008"
+    },
+    "Darlington Point": {
+        "station_id": "95021",
+        "road_name_x": "Sturt Highway",
+        "post_code": "2706"
+    },
+    "Daysdale": {
+        "station_id": "95826",
+        "road_name_x": "Federation Way",
+        "post_code": "2646"
+    },
+    "Dee Why": {
+        "station_id": "55030",
+        "road_name_x": "Pittwater Road",
+        "post_code": "2099"
+    },
+    "Deniliquin": {
+        "station_id": "97001",
+        "road_name_x": "Riverina Highway",
+        "post_code": "2710"
+    },
+    "Denman": {
+        "station_id": "05223",
+        "road_name_x": "Palace Street",
+        "post_code": "2328"
+    },
+    "Doonside": {
+        "station_id": "70154",
+        "road_name_x": "Knox Road",
+        "post_code": "2767"
+    },
+    "Dora Creek": {
+        "station_id": "05510",
+        "road_name_x": "Main Road",
+        "post_code": "2264"
+    },
+    "Double Bay": {
+        "station_id": "10030",
+        "road_name_x": "New South Head Road",
+        "post_code": "2028"
+    },
+    "Doyalson": {
+        "station_id": "05302",
+        "road_name_x": "Motorway Link",
+        "post_code": "2262"
+    },
+    "Doyles River": {
+        "station_id": "92758",
+        "road_name_x": "Oxley Highway",
+        "post_code": "2446"
+    },
+    "Drildool": {
+        "station_id": "96537",
+        "road_name_x": "Kamilaroi Highway",
+        "post_code": "2386"
+    },
+    "Drummoyne": {
+        "station_id": "30001",
+        "road_name_x": "Victoria Road",
+        "post_code": "2047"
+    },
+    "Dubbo": {
+        "station_id": "80645",
+        "road_name_x": "Newell Hwy",
+        "post_code": "2830"
+    },
+    "Dulwich Hill": {
+        "station_id": "19192",
+        "road_name_x": "Old Canterbury Road",
+        "post_code": "2203"
+    },
+    "Dundas": {
+        "station_id": "50072",
+        "road_name_x": "Kissing Point Road",
+        "post_code": "2117"
+    },
+    "Dundee": {
+        "station_id": "91190",
+        "road_name_x": "New England Highway",
+        "post_code": "2370"
+    },
+    "Dunedoo": {
+        "station_id": "99135",
+        "road_name_x": "Castlereagh Highway",
+        "post_code": "2844"
+    },
+    "Dungog": {
+        "station_id": "05356",
+        "road_name_x": "Stroud Hill Road",
+        "post_code": "2420"
+    },
+    "Dunmore": {
+        "station_id": "07041",
+        "road_name_x": "Princes Highway",
+        "post_code": "2529"
+    },
+    "Dural": {
+        "station_id": "73038",
+        "road_name_x": "Old Northern Road",
+        "post_code": "2158"
+    },
+    "EASTLAKES": {
+        "station_id": "16140",
+        "road_name_x": "SOUTHERN CROSS",
+        "post_code": "2018"
+    },
+    "East Albury": {
+        "station_id": "95678",
+        "road_name_x": "Borella Road",
+        "post_code": "2640"
+    },
+    "East Gosford": {
+        "station_id": "05146",
+        "road_name_x": "Henry Parry Drive",
+        "post_code": "2250"
+    },
+    "East Jindabyne": {
+        "station_id": "08214",
+        "road_name_x": "Kosciuszko Road",
+        "post_code": "2627"
+    },
+    "East Kempsey": {
+        "station_id": "09296",
+        "road_name_x": "Lord Street",
+        "post_code": "2440"
+    },
+    "East Lismore": {
+        "station_id": "04286",
+        "road_name_x": "Elliott Road",
+        "post_code": "2480"
+    },
+    "East Lynne": {
+        "station_id": "07356",
+        "road_name_x": "Princes Highway",
+        "post_code": "2536"
+    },
+    "East Maitland": {
+        "station_id": "05140",
+        "road_name_x": "Newcastle Street",
+        "post_code": "2323"
+    },
+    "East Tamworth": {
+        "station_id": "92489",
+        "road_name_x": "Armidale Road",
+        "post_code": "2340"
+    },
+    "East Wagga Wagga": {
+        "station_id": "95486",
+        "road_name_x": "Hammond Avenue",
+        "post_code": "2650"
+    },
+    "Eastern Creek": {
+        "station_id": "70001",
+        "road_name_x": "Great Western Highway",
+        "post_code": "2766"
+    },
+    "Eastlakes": {
+        "station_id": "16010",
+        "road_name_x": "Southern Cross Drive",
+        "post_code": "2018"
+    },
+    "Eastwood": {
+        "station_id": "51210",
+        "road_name_x": "Rutledge Street",
+        "post_code": "2122"
+    },
+    "Ebor": {
+        "station_id": "92546",
+        "road_name_x": "Waterfall Way",
+        "post_code": "2453"
+    },
+    "Eden": {
+        "station_id": "08112",
+        "road_name_x": "Princes Highway",
+        "post_code": "2551"
+    },
+    "Edgecliff": {
+        "station_id": "10011",
+        "road_name_x": "New South Head Road",
+        "post_code": "2027"
+    },
+    "Edgeroi": {
+        "station_id": "92220",
+        "road_name_x": "Newell Highway",
+        "post_code": "2390"
+    },
+    "Edgeworth": {
+        "station_id": "05573",
+        "road_name_x": "George Booth Drive",
+        "post_code": "2285"
+    },
+    "Elderslie": {
+        "station_id": "85016",
+        "road_name_x": "Camden Valley Way",
+        "post_code": "2570"
+    },
+    "Elland": {
+        "station_id": "04307",
+        "road_name_x": "Armidale Road",
+        "post_code": "2460"
+    },
+    "Emerald Hill": {
+        "station_id": "92294",
+        "road_name_x": "Kamilaroi Highway",
+        "post_code": "2380"
+    },
+    "Emu Plains": {
+        "station_id": "99855",
+        "road_name_x": "Great Western Highway",
+        "post_code": "2750"
+    },
+    "Engadine": {
+        "station_id": "37022",
+        "road_name_x": "Heathcote Road",
+        "post_code": "2233"
+    },
+    "Epping": {
+        "station_id": "74453",
+        "road_name_x": "Epping Road",
+        "post_code": "2121"
+    },
+    "Erina": {
+        "station_id": "05008",
+        "road_name_x": "The Entrance Road",
+        "post_code": "2250"
+    },
+    "Ermington": {
+        "station_id": "50232",
+        "road_name_x": "Marsden Road",
+        "post_code": "2115"
+    },
+    "Erskineville": {
+        "station_id": "02389",
+        "road_name_x": "Sydney Park Road",
+        "post_code": "2043"
+    },
+    "Euchareena": {
+        "station_id": "93833",
+        "road_name_x": "Burrendong Way",
+        "post_code": "2866"
+    },
+    "Eumungerie": {
+        "station_id": "6145",
+        "road_name_x": "Newell Highway",
+        "post_code": "2822"
+    },
+    "Euroley": {
+        "station_id": "NNDSTC",
+        "road_name_x": "Sturt Highway",
+        "post_code": "2700"
+    },
+    "Eurongilly": {
+        "station_id": "95306",
+        "road_name_x": "Gundagai Road",
+        "post_code": "2663"
+    },
+    "Euston": {
+        "station_id": "97477",
+        "road_name_x": "Murray Valley Highway",
+        "post_code": "2737"
+    },
+    "Ewingsdale": {
+        "station_id": "04066",
+        "road_name_x": "Pacific Highway",
+        "post_code": "2481"
+    },
+    "Failford": {
+        "station_id": "09938",
+        "road_name_x": "Failford Road",
+        "post_code": "2430"
+    },
+    "Fairfield": {
+        "station_id": "66086",
+        "road_name_x": "Fairfield Road",
+        "post_code": "2165"
+    },
+    "Fairfield East": {
+        "station_id": "66249",
+        "road_name_x": "Fairfield Street",
+        "post_code": "2165"
+    },
+    "Fairy Meadow": {
+        "station_id": "07124",
+        "road_name_x": "Princes Highway",
+        "post_code": "2519"
+    },
+    "Falls Creek": {
+        "station_id": "07053",
+        "road_name_x": "Princes Highway",
+        "post_code": "2540"
+    },
+    "Faulconbridge": {
+        "station_id": "99914",
+        "road_name_x": "Great Western Highway",
+        "post_code": "2776"
+    },
+    "Fern Bay": {
+        "station_id": "05394",
+        "road_name_x": "Nelson Bay Road",
+        "post_code": "2295"
+    },
+    "Fernbank Creek": {
+        "station_id": "09004",
+        "road_name_x": "Pacific Highway",
+        "post_code": "2444"
+    },
+    "Fernmount": {
+        "station_id": "04311",
+        "road_name_x": "Waterfall Way",
+        "post_code": "2454"
+    },
+    "Fernside": {
+        "station_id": "04201",
+        "road_name_x": "Kyogle Road",
+        "post_code": "2480"
+    },
+    "Ferodale": {
+        "station_id": "05652",
+        "road_name_x": "Medowie Road",
+        "post_code": "2318"
+    },
+    "Figtree": {
+        "station_id": "07593",
+        "road_name_x": "Princes Highway",
+        "post_code": "2525"
+    },
+    "Finley": {
+        "station_id": "97024",
+        "road_name_x": "Riverina Highway",
+        "post_code": "2713"
+    },
+    "Fitzroy Falls": {
+        "station_id": "07366",
+        "road_name_x": "Nowra Road",
+        "post_code": "2577"
+    },
+    "Five Dock": {
+        "station_id": "30005",
+        "road_name_x": "Parramatta Road",
+        "post_code": "2046"
+    },
+    "Fletcher": {
+        "station_id": "05029",
+        "road_name_x": "Minmi Road",
+        "post_code": "2287"
+    },
+    "Flinders": {
+        "station_id": "RD002",
+        "road_name_x": "Shellharbour Road",
+        "post_code": "2529"
+    },
+    "Forbes": {
+        "station_id": "6141",
+        "road_name_x": "Newell Highway",
+        "post_code": "2871"
+    },
+    "Forest Hill": {
+        "station_id": "95060",
+        "road_name_x": "Sturt Highway",
+        "post_code": "2651"
+    },
+    "Forest Lodge": {
+        "station_id": "02382",
+        "road_name_x": "Bridge Road",
+        "post_code": "2037"
+    },
+    "Forestville": {
+        "station_id": "55044",
+        "road_name_x": "Warringah Road",
+        "post_code": "2087"
+    },
+    "Forster": {
+        "station_id": "09923",
+        "road_name_x": "Head Street",
+        "post_code": "2428"
+    },
+    "Freemans Waterhole": {
+        "station_id": "05097",
+        "road_name_x": "Pacific Motorway",
+        "post_code": "2323"
+    },
+    "Frenchs Forest": {
+        "station_id": "55051",
+        "road_name_x": "Forest Way",
+        "post_code": "2086"
+    },
+    "GLEBE": {
+        "station_id": "02350",
+        "road_name_x": "GLEBE POINT",
+        "post_code": "2037"
+    },
+    "Gadara": {
+        "station_id": "95108",
+        "road_name_x": "Snowy Mountains Highway",
+        "post_code": "2720"
+    },
+    "Galambine": {
+        "station_id": "99274",
+        "road_name_x": "Castlereagh Highway",
+        "post_code": "2850"
+    },
+    "Galore": {
+        "station_id": "95072",
+        "road_name_x": "Sturt Highway",
+        "post_code": "2650"
+    },
+    "Galston": {
+        "station_id": "T0337",
+        "road_name_x": "Galston Road",
+        "post_code": "2159"
+    },
+    "Ganmain": {
+        "station_id": "95404",
+        "road_name_x": "Ardlethan Road",
+        "post_code": "2702"
+    },
+    "Garden Suburb": {
+        "station_id": "05693",
+        "road_name_x": "Myall Road",
+        "post_code": "2289"
+    },
+    "Gateshead": {
+        "station_id": "05259",
+        "road_name_x": "Pacific Highway",
+        "post_code": "2290"
+    },
+    "Gerogery": {
+        "station_id": "95456",
+        "road_name_x": "Olympic Highway",
+        "post_code": "2642"
+    },
+    "Gerringong": {
+        "station_id": "07044",
+        "road_name_x": "Fern Street",
+        "post_code": "2534"
+    },
+    "Ghinni Ghinni": {
+        "station_id": "09115",
+        "road_name_x": "Pacific Highway",
+        "post_code": "2430"
+    },
+    "Gibraltar Range": {
+        "station_id": "91003",
+        "road_name_x": "Gwydir Highway",
+        "post_code": "2370"
+    },
+    "Gilgai": {
+        "station_id": "91205",
+        "road_name_x": "Bundarra Road",
+        "post_code": "2360"
+    },
+    "Gilgandra": {
+        "station_id": "6146",
+        "road_name_x": "Newell Highway",
+        "post_code": "2827"
+    },
+    "Gillenbah": {
+        "station_id": "95073",
+        "road_name_x": "Sturt Highway",
+        "post_code": "2700"
+    },
+    "Gilmore": {
+        "station_id": "95107",
+        "road_name_x": "Batlow Road",
+        "post_code": "2720"
+    },
+    "Gineroi": {
+        "station_id": "91254",
+        "road_name_x": "Allan Cunningham Road",
+        "post_code": "2404"
+    },
+    "Girral": {
+        "station_id": "95224",
+        "road_name_x": "Lake Road",
+        "post_code": "2669"
+    },
+    "Gladstone": {
+        "station_id": "09011",
+        "road_name_x": "Smithtown Road",
+        "post_code": "2440"
+    },
+    "Glanmire": {
+        "station_id": "99921",
+        "road_name_x": "Great Western Highway",
+        "post_code": "2795"
+    },
+    "Glebe": {
+        "station_id": "02273",
+        "road_name_x": "Broadway",
+        "post_code": "2037"
+    },
+    "Glen Innes": {
+        "station_id": "6134",
+        "road_name_x": "Gwydir Highway",
+        "post_code": "2370"
+    },
+    "Glencoe": {
+        "station_id": "91606",
+        "road_name_x": "New England Highway",
+        "post_code": "2365"
+    },
+    "Glendale": {
+        "station_id": "05570",
+        "road_name_x": "Main Road",
+        "post_code": "2285"
+    },
+    "Glendenning": {
+        "station_id": "71059",
+        "road_name_x": "Richmond Road",
+        "post_code": "2761"
+    },
+    "Gloucester": {
+        "station_id": "09333",
+        "road_name_x": "The Bucketts Way",
+        "post_code": "2422"
+    },
+    "Gonn": {
+        "station_id": "97281",
+        "road_name_x": "Nacurrie Road",
+        "post_code": "2732"
+    },
+    "Goolgowi": {
+        "station_id": "97133",
+        "road_name_x": "Mid Western Highway",
+        "post_code": "2652"
+    },
+    "Goonellabah": {
+        "station_id": "04030",
+        "road_name_x": "Ballina Road",
+        "post_code": "2480"
+    },
+    "Goonoo Goonoo": {
+        "station_id": "92323",
+        "road_name_x": "New England Highway",
+        "post_code": "2340"
+    },
+    "Gordon": {
+        "station_id": "53004",
+        "road_name_x": "Pacific Highway",
+        "post_code": "2072"
+    },
+    "Gorokan": {
+        "station_id": "05165",
+        "road_name_x": "Wallarah Road",
+        "post_code": "2263"
+    },
+    "Gosford": {
+        "station_id": "05119",
+        "road_name_x": "Showground Road",
+        "post_code": "2250"
+    },
+    "Goulburn": {
+        "station_id": "94130",
+        "road_name_x": "Hume Street",
+        "post_code": "2580"
+    },
+    "Gowang": {
+        "station_id": "93860",
+        "road_name_x": "Newell Highway",
+        "post_code": "2357"
+    },
+    "Gowrie": {
+        "station_id": "92325",
+        "road_name_x": "New England Highway",
+        "post_code": "2340"
+    },
+    "Grafton": {
+        "station_id": "04327",
+        "road_name_x": "Prince Street",
+        "post_code": "2460"
+    },
+    "Granville": {
+        "station_id": "49001",
+        "road_name_x": "Parramatta Road",
+        "post_code": "2142"
+    },
+    "Greenacre": {
+        "station_id": "24093",
+        "road_name_x": "Wiley Avenue",
+        "post_code": "2190"
+    },
+    "Grenfell": {
+        "station_id": "94264",
+        "road_name_x": "Henry Lawson Way",
+        "post_code": "2810"
+    },
+    "Gresford": {
+        "station_id": "05424",
+        "road_name_x": "Durham Road",
+        "post_code": "2311"
+    },
+    "Greystanes": {
+        "station_id": "67091",
+        "road_name_x": "Greystanes Road",
+        "post_code": "2145"
+    },
+    "Griffith": {
+        "station_id": "95254",
+        "road_name_x": "Wakaden Street",
+        "post_code": "2680"
+    },
+    "Grong Grong": {
+        "station_id": "95083",
+        "road_name_x": "Newell Highway",
+        "post_code": "2652"
+    },
+    "Guildford": {
+        "station_id": "49128",
+        "road_name_x": "Oxford Street",
+        "post_code": "2161"
+    },
+    "Gulgong": {
+        "station_id": "99894",
+        "road_name_x": "Castlereagh Highway",
+        "post_code": "2852"
+    },
+    "Gulmarrad": {
+        "station_id": "04400",
+        "road_name_x": "Pacific Highway",
+        "post_code": "2463"
+    },
+    "Gundagai": {
+        "station_id": "94462",
+        "road_name_x": "Hume Highway",
+        "post_code": "2722"
+    },
+    "Gungal": {
+        "station_id": "92280",
+        "road_name_x": "Merriwa Road",
+        "post_code": "2333"
+    },
+    "Gunnedah": {
+        "station_id": "6167",
+        "road_name_x": "Oxley Highway",
+        "post_code": "2380"
+    },
+    "Gunning": {
+        "station_id": "94170",
+        "road_name_x": "Grabben Gullen Road",
+        "post_code": "2581"
+    },
+    "Gurley": {
+        "station_id": "91022",
+        "road_name_x": "Newell Highway",
+        "post_code": "2398"
+    },
+    "Guyra": {
+        "station_id": "91565",
+        "road_name_x": "Malpas Street",
+        "post_code": "2365"
+    },
+    "Gwynneville": {
+        "station_id": "07104",
+        "road_name_x": "Princes Motorway",
+        "post_code": "2500"
+    },
+    "HABERFIELD": {
+        "station_id": "20080",
+        "road_name_x": "DOBROYD",
+        "post_code": "MISSING"
+    },
+    "HUNTERS HILL": {
+        "station_id": "32016",
+        "road_name_x": "BURNS BAY",
+        "post_code": "2110"
+    },
+    "Haberfield": {
+        "station_id": "20067",
+        "road_name_x": "City-West Link Road",
+        "post_code": "2045"
+    },
+    "Halfway Creek": {
+        "station_id": "04168",
+        "road_name_x": "Pacific Highway",
+        "post_code": "2460"
+    },
+    "Hamilton": {
+        "station_id": "05323",
+        "road_name_x": "Donald Street",
+        "post_code": "2303"
+    },
+    "Hamilton East": {
+        "station_id": "7212",
+        "road_name_x": "Stewart Avenue",
+        "post_code": "2303"
+    },
+    "Hamilton South": {
+        "station_id": "05206",
+        "road_name_x": "Glebe Road",
+        "post_code": "2303"
+    },
+    "Hampden Hall": {
+        "station_id": "09176",
+        "road_name_x": "South West Rocks Road",
+        "post_code": "2440"
+    },
+    "Hampton": {
+        "station_id": "99315",
+        "road_name_x": "Jenolan Caves Road",
+        "post_code": "2790"
+    },
+    "Harden": {
+        "station_id": "94342",
+        "road_name_x": "Albury Street",
+        "post_code": "2587"
+    },
+    "Harpers Hill": {
+        "station_id": "05030",
+        "road_name_x": "New England Highway",
+        "post_code": "2321"
+    },
+    "Harris Park": {
+        "station_id": "49118",
+        "road_name_x": "Good Street",
+        "post_code": "2150"
+    },
+    "Hartley": {
+        "station_id": "6190",
+        "road_name_x": "Great Western Highway",
+        "post_code": "2790"
+    },
+    "Hartys Plains": {
+        "station_id": "09133",
+        "road_name_x": "Oxley Highway",
+        "post_code": "2446"
+    },
+    "Hay": {
+        "station_id": "97056",
+        "road_name_x": "Mid Western Highway",
+        "post_code": "2711"
+    },
+    "Hay South": {
+        "station_id": "97004",
+        "road_name_x": "Sturt Highway",
+        "post_code": "2711"
+    },
+    "Haymarket": {
+        "station_id": "01323",
+        "road_name_x": "Ultimo Road",
+        "post_code": "2000"
+    },
+    "Heathcote": {
+        "station_id": "37002",
+        "road_name_x": "Princes Highway",
+        "post_code": "2233"
+    },
+    "Heatherbrae": {
+        "station_id": "05075",
+        "road_name_x": "Pacific Highway",
+        "post_code": "2324"
+    },
+    "Helensburgh": {
+        "station_id": "07740",
+        "road_name_x": "Princes Motorway",
+        "post_code": "2508"
+    },
+    "Hermidale": {
+        "station_id": "96552",
+        "road_name_x": "Hermidale Nymagee Road",
+        "post_code": "2831"
+    },
+    "Hexham": {
+        "station_id": "05052",
+        "road_name_x": "Maitland Road",
+        "post_code": "2322"
+    },
+    "Hill Top": {
+        "station_id": "08117",
+        "road_name_x": "Kosciuszko Road",
+        "post_code": "2628"
+    },
+    "Hillsborough": {
+        "station_id": "05304",
+        "road_name_x": "Newcastle Inner City Bypass",
+        "post_code": "2290"
+    },
+    "Hillston": {
+        "station_id": "97139",
+        "road_name_x": "Kidman Way",
+        "post_code": "2675"
+    },
+    "Hinchinbrook": {
+        "station_id": "64045",
+        "road_name_x": "Cowpasture Road",
+        "post_code": "2168"
+    },
+    "Holbrook": {
+        "station_id": "95036",
+        "road_name_x": "Hume Highway",
+        "post_code": "2644"
+    },
+    "Holsworthy": {
+        "station_id": "62138",
+        "road_name_x": "Moorebank Avenue",
+        "post_code": "2173"
+    },
+    "Homebush": {
+        "station_id": "28001",
+        "road_name_x": "Western Motorway",
+        "post_code": "2140"
+    },
+    "Homebush West": {
+        "station_id": "27143",
+        "road_name_x": "Parramatta Road",
+        "post_code": "2140"
+    },
+    "Hopefield": {
+        "station_id": "95048",
+        "road_name_x": "Riverina Highway",
+        "post_code": "2646"
+    },
+    "Horningsea Park": {
+        "station_id": "64098",
+        "road_name_x": "Cowpasture Road",
+        "post_code": "2171"
+    },
+    "Hornsby": {
+        "station_id": "74018",
+        "road_name_x": "Pacific Highway",
+        "post_code": "2077"
+    },
+    "Hornsby Heights": {
+        "station_id": "T0085",
+        "road_name_x": "Galston Road",
+        "post_code": "2077"
+    },
+    "Horsley Park": {
+        "station_id": "65095",
+        "road_name_x": "The Horsley Drive",
+        "post_code": "2175"
+    },
+    "Howlong": {
+        "station_id": "95045",
+        "road_name_x": "Riverina Highway",
+        "post_code": "2643"
+    },
+    "Huntleys Point": {
+        "station_id": "31015",
+        "road_name_x": "Victoria Road",
+        "post_code": "2111"
+    },
+    "Ilford": {
+        "station_id": "99267",
+        "road_name_x": "Castlereagh Highway",
+        "post_code": "2850"
+    },
+    "Ingleburn": {
+        "station_id": "84001",
+        "road_name_x": "Hume Motorway",
+        "post_code": "2565"
+    },
+    "Ingleside": {
+        "station_id": "57024",
+        "road_name_x": "Mona Vale Road",
+        "post_code": "2101"
+    },
+    "Inverell": {
+        "station_id": "6133",
+        "road_name_x": "Gwydir Highway",
+        "post_code": "2360"
+    },
+    "Islington": {
+        "station_id": "05279",
+        "road_name_x": "Maitland Road",
+        "post_code": "2296"
+    },
+    "Jamberoo": {
+        "station_id": "07312",
+        "road_name_x": "Jamberoo Mountain Road",
+        "post_code": "2533"
+    },
+    "James Creek": {
+        "station_id": "04026",
+        "road_name_x": "Yamba Road",
+        "post_code": "2463"
+    },
+    "Jamisontown": {
+        "station_id": "87002",
+        "road_name_x": "Western Motorway",
+        "post_code": "2750"
+    },
+    "Jaspers Brush": {
+        "station_id": "113924",
+        "road_name_x": "Southern Fwy - Site 3",
+        "post_code": "2535"
+    },
+    "Jennings": {
+        "station_id": "91122",
+        "road_name_x": "Phelhampton Crescent",
+        "post_code": "4383"
+    },
+    "Jerilderie": {
+        "station_id": "97032",
+        "road_name_x": "Newell Highway",
+        "post_code": "2716"
+    },
+    "Jerrabomberra": {
+        "station_id": "94293",
+        "road_name_x": "Lanyon Drive",
+        "post_code": "2619"
+    },
+    "Jerrys Plains": {
+        "station_id": "05485",
+        "road_name_x": "Jerrys Plains Road",
+        "post_code": "2330"
+    },
+    "Jesmond": {
+        "station_id": "05490",
+        "road_name_x": "Newcastle Road",
+        "post_code": "2299"
+    },
+    "Jindabyne": {
+        "station_id": "08355",
+        "road_name_x": "Barry Way",
+        "post_code": "2627"
+    },
+    "Jindera": {
+        "station_id": "95458",
+        "road_name_x": "Urana Road",
+        "post_code": "2642"
+    },
+    "Jones Island": {
+        "station_id": "PHSTC",
+        "road_name_x": "Pacific Highway",
+        "post_code": "2430"
+    },
+    "Junee": {
+        "station_id": "95141",
+        "road_name_x": "Olympic Highway",
+        "post_code": "2663"
+    },
+    "KINGSFORD": {
+        "station_id": "16020",
+        "road_name_x": "GARDENERS",
+        "post_code": "2032"
+    },
+    "KOGARAH BAY": {
+        "station_id": "40018",
+        "road_name_x": "PRINCES",
+        "post_code": "2217"
+    },
+    "Kangaroo Valley": {
+        "station_id": "07426",
+        "road_name_x": "Moss Vale Road",
+        "post_code": "2577"
+    },
+    "Karaak Flat": {
+        "station_id": "09886",
+        "road_name_x": "Nowendoc Road",
+        "post_code": "2429"
+    },
+    "Karabar": {
+        "station_id": "94147",
+        "road_name_x": "Cooma Street",
+        "post_code": "2620"
+    },
+    "Karangi": {
+        "station_id": "04422",
+        "road_name_x": "Coramba Road",
+        "post_code": "2450"
+    },
+    "Karuah": {
+        "station_id": "05006",
+        "road_name_x": "Tarean Road",
+        "post_code": "2324"
+    },
+    "Katoomba": {
+        "station_id": "99212",
+        "road_name_x": "Great Western Highway",
+        "post_code": "2780"
+    },
+    "Kellyville": {
+        "station_id": "71180",
+        "road_name_x": "Old Windsor Road",
+        "post_code": "2155"
+    },
+    "Kelso": {
+        "station_id": "80513",
+        "road_name_x": "Great Western Hwy",
+        "post_code": "2795"
+    },
+    "Kembla Grange": {
+        "station_id": "07647",
+        "road_name_x": "Princes Highway",
+        "post_code": "2526"
+    },
+    "Kempsey": {
+        "station_id": "09175",
+        "road_name_x": "Smith Street",
+        "post_code": "2440"
+    },
+    "Kensington": {
+        "station_id": "02359",
+        "road_name_x": "Anzac Parade",
+        "post_code": "2033"
+    },
+    "Kentucky": {
+        "station_id": "92057",
+        "road_name_x": "New England Highway",
+        "post_code": "2354"
+    },
+    "Kew": {
+        "station_id": "09120",
+        "road_name_x": "Pacific Highway",
+        "post_code": "2439"
+    },
+    "Kiama": {
+        "station_id": "07096",
+        "road_name_x": "Jamberoo Road",
+        "post_code": "2533"
+    },
+    "Killara": {
+        "station_id": "53198",
+        "road_name_x": "Pacific Highway",
+        "post_code": "2071"
+    },
+    "Killawarra": {
+        "station_id": "09410",
+        "road_name_x": "Gloucester Road",
+        "post_code": "2429"
+    },
+    "Kingsdale": {
+        "station_id": "94390",
+        "road_name_x": "Crookwell Road",
+        "post_code": "2580"
+    },
+    "Kingsgrove": {
+        "station_id": "24221",
+        "road_name_x": "Bexley Road",
+        "post_code": "2208"
+    },
+    "Kingswood": {
+        "station_id": "86036",
+        "road_name_x": "Parker Street",
+        "post_code": "2747"
+    },
+    "Kirrawee": {
+        "station_id": "36015",
+        "road_name_x": "Princes Highway",
+        "post_code": "2232"
+    },
+    "Kiwarrak": {
+        "station_id": "6120-PR",
+        "road_name_x": "Pacific Highway",
+        "post_code": "2430"
+    },
+    "Knockrow": {
+        "station_id": "04060",
+        "road_name_x": "Pacific Highway",
+        "post_code": "2479"
+    },
+    "Kogarah": {
+        "station_id": "23015",
+        "road_name_x": "Princes Highway",
+        "post_code": "2217"
+    },
+    "Koolkhan": {
+        "station_id": "04170",
+        "road_name_x": "Summerland Way",
+        "post_code": "2460"
+    },
+    "Kooragang": {
+        "station_id": "05962",
+        "road_name_x": "Nelson Bay Road",
+        "post_code": "2304"
+    },
+    "Koorawatha": {
+        "station_id": "94222",
+        "road_name_x": "Lachlan Valley Way",
+        "post_code": "2807"
+    },
+    "Koraleigh": {
+        "station_id": "97343",
+        "road_name_x": "Speewa Road",
+        "post_code": "2735"
+    },
+    "Kosciuszko": {
+        "station_id": "08320",
+        "road_name_x": "Alpine Way",
+        "post_code": "2627"
+    },
+    "Kosciuszko National Park": {
+        "station_id": "08089",
+        "road_name_x": "Snowy Mountains Highway",
+        "post_code": "2627"
+    },
+    "Kotara": {
+        "station_id": "05308",
+        "road_name_x": "Newcastle Inner City Bypass",
+        "post_code": "2289"
+    },
+    "Kurri Kurri": {
+        "station_id": "05530",
+        "road_name_x": "Lang Street",
+        "post_code": "2327"
+    },
+    "Kyalite": {
+        "station_id": "97206",
+        "road_name_x": "Stony Crossing Road",
+        "post_code": "2715"
+    },
+    "Kyeamba": {
+        "station_id": "95031",
+        "road_name_x": "Hume Highway",
+        "post_code": "2650"
+    },
+    "Kyogle": {
+        "station_id": "04197",
+        "road_name_x": "Summerland Way",
+        "post_code": "2474"
+    },
+    "LANE COVE": {
+        "station_id": "32045",
+        "road_name_x": "RIVER",
+        "post_code": "2066"
+    },
+    "LANE COVE NORTH": {
+        "station_id": "32074",
+        "road_name_x": "MOWBRAY",
+        "post_code": "2066"
+    },
+    "LANE COVE WEST": {
+        "station_id": "32030",
+        "road_name_x": "LANE COVE",
+        "post_code": "2066"
+    },
+    "LEWISHAM": {
+        "station_id": "20014",
+        "road_name_x": "BROWN",
+        "post_code": "2049"
+    },
+    "Lade Vale": {
+        "station_id": "94227",
+        "road_name_x": "Gundaroo Road",
+        "post_code": "2581"
+    },
+    "Lake Cathie": {
+        "station_id": "09845",
+        "road_name_x": "Ocean Drive",
+        "post_code": "2445"
+    },
+    "Lake George": {
+        "station_id": "94470",
+        "road_name_x": "Tarago Road",
+        "post_code": "2581"
+    },
+    "Lake Heights": {
+        "station_id": "07254",
+        "road_name_x": "Northcliffe Drive",
+        "post_code": "2502"
+    },
+    "Lake Hume Village": {
+        "station_id": "95468",
+        "road_name_x": "Riverina Highway",
+        "post_code": "3691"
+    },
+    "Lake Illawarra": {
+        "station_id": "07099",
+        "road_name_x": "Shellharbour Road",
+        "post_code": "2528"
+    },
+    "Lake Innes": {
+        "station_id": "6128-PR",
+        "road_name_x": "Pacific Highway",
+        "post_code": "2446"
+    },
+    "Lakelands": {
+        "station_id": "05856",
+        "road_name_x": "Macquarie Road",
+        "post_code": "2282"
+    },
+    "Lambton": {
+        "station_id": "05314",
+        "road_name_x": "Croudace Street",
+        "post_code": "2299"
+    },
+    "Lane Cove": {
+        "station_id": "32022",
+        "road_name_x": "Epping Road",
+        "post_code": "2066"
+    },
+    "Lane Cove North": {
+        "station_id": "32027",
+        "road_name_x": "Longueville Road",
+        "post_code": "2066"
+    },
+    "Lane Cove West": {
+        "station_id": "32028",
+        "road_name_x": "Epping Road",
+        "post_code": "2066"
+    },
+    "Lansvale": {
+        "station_id": "44139",
+        "road_name_x": "Hume Highway",
+        "post_code": "2166"
+    },
+    "Larbert": {
+        "station_id": "94508",
+        "road_name_x": "Kings Highway",
+        "post_code": "2622"
+    },
+    "Lavington": {
+        "station_id": "95671",
+        "road_name_x": "Wagga Road",
+        "post_code": "2641"
+    },
+    "Leadville": {
+        "station_id": "92747",
+        "road_name_x": "Golden Highway",
+        "post_code": "2844"
+    },
+    "Leeton": {
+        "station_id": "95240",
+        "road_name_x": "Irrigation Way",
+        "post_code": "2705"
+    },
+    "Legume": {
+        "station_id": "91179",
+        "road_name_x": "Killarney Road",
+        "post_code": "2476"
+    },
+    "Leichhardt": {
+        "station_id": "20012",
+        "road_name_x": "Parramatta Road",
+        "post_code": "2040"
+    },
+    "Lennox Head": {
+        "station_id": "04660",
+        "road_name_x": "Byron Bay Road",
+        "post_code": "2478"
+    },
+    "Leppington": {
+        "station_id": "85019",
+        "road_name_x": "Camden Valley Way",
+        "post_code": "2179"
+    },
+    "Leumeah": {
+        "station_id": "83011",
+        "road_name_x": "Campbelltown Road",
+        "post_code": "2560"
+    },
+    "Leura": {
+        "station_id": "99041",
+        "road_name_x": "Great Western Highway",
+        "post_code": "2780"
+    },
+    "Lewisham": {
+        "station_id": "19193",
+        "road_name_x": "Longport Street",
+        "post_code": "2049"
+    },
+    "Lidcombe": {
+        "station_id": "46106",
+        "road_name_x": "Joseph Street",
+        "post_code": "2141"
+    },
+    "Lidsdale": {
+        "station_id": "99889",
+        "road_name_x": "Castlereagh Highway",
+        "post_code": "2790"
+    },
+    "Lightning Ridge": {
+        "station_id": "96254",
+        "road_name_x": "Castlereagh Highway",
+        "post_code": "2834"
+    },
+    "Lilyfield": {
+        "station_id": "20075",
+        "road_name_x": "City West Link Road",
+        "post_code": "2040"
+    },
+    "Limeburners Creek": {
+        "station_id": "09913",
+        "road_name_x": "The Bucketts Way",
+        "post_code": "2324"
+    },
+    "Linley Point": {
+        "station_id": "32012",
+        "road_name_x": "Burns Bay Road",
+        "post_code": "2066"
+    },
+    "Lismore": {
+        "station_id": "04283",
+        "road_name_x": "Dawson Street",
+        "post_code": "2480"
+    },
+    "Little Billabong": {
+        "station_id": "95033",
+        "road_name_x": "Hume Highway",
+        "post_code": "2644"
+    },
+    "Little Hartley": {
+        "station_id": "6189",
+        "road_name_x": "Great Western Highway",
+        "post_code": "2790"
+    },
+    "Liverpool": {
+        "station_id": "60005",
+        "road_name_x": "Hume Highway",
+        "post_code": "2170"
+    },
+    "Llandilo": {
+        "station_id": "87025",
+        "road_name_x": "The Northern Road",
+        "post_code": "2747"
+    },
+    "Llangothlin": {
+        "station_id": "9589",
+        "road_name_x": "New England Highway",
+        "post_code": "2365"
+    },
+    "Lockhart": {
+        "station_id": "95208",
+        "road_name_x": "Urana Street",
+        "post_code": "2656"
+    },
+    "Loftus": {
+        "station_id": "37001",
+        "road_name_x": "Princes Highway",
+        "post_code": "2232"
+    },
+    "Londonderry": {
+        "station_id": "87068",
+        "road_name_x": "Londonderry Road",
+        "post_code": "2753"
+    },
+    "Long Jetty": {
+        "station_id": "05199",
+        "road_name_x": "The Entrance Road",
+        "post_code": "2261"
+    },
+    "Lucknow": {
+        "station_id": "93090",
+        "road_name_x": "Mitchell Highway",
+        "post_code": "2800"
+    },
+    "Luddenham": {
+        "station_id": "87021",
+        "road_name_x": "The Northern Road",
+        "post_code": "2745"
+    },
+    "Lyndhurst": {
+        "station_id": "93101",
+        "road_name_x": "Mid Western Highway",
+        "post_code": "2797"
+    },
+    "MERRIWA": {
+        "station_id": "T6163E",
+        "road_name_x": "GOLDEN",
+        "post_code": "2329"
+    },
+    "MILSONS POINT": {
+        "station_id": "01001S",
+        "road_name_x": "NETWORK CHANGE DO NOT LOAD DATA - BRADFIELD",
+        "post_code": "2061"
+    },
+    "MISSING": {
+        "station_id": "28020",
+        "road_name_x": "WATERLOO",
+        "post_code": "MISSING"
+    },
+    "MOLONG": {
+        "station_id": "T6169N",
+        "road_name_x": "WELLINGTON",
+        "post_code": "2866"
+    },
+    "MUSWELLBROOK": {
+        "station_id": "T6157N",
+        "road_name_x": "NEW ENGLAND",
+        "post_code": "2333"
+    },
+    "Maclean": {
+        "station_id": "04630",
+        "road_name_x": "Yamba Road",
+        "post_code": "2463"
+    },
+    "Macquarie Park": {
+        "station_id": "51008",
+        "road_name_x": "Epping Road",
+        "post_code": "2113"
+    },
+    "Macquarie Pass": {
+        "station_id": "07094",
+        "road_name_x": "Illawarra Highway",
+        "post_code": "2577"
+    },
+    "Maddens Plains": {
+        "station_id": "07745",
+        "road_name_x": "Princes Highway",
+        "post_code": "2508"
+    },
+    "Mangoplah": {
+        "station_id": "95432",
+        "road_name_x": "Holbrook Road",
+        "post_code": "2652"
+    },
+    "Manildra": {
+        "station_id": "93237",
+        "road_name_x": "Henry Parkes Way",
+        "post_code": "2865"
+    },
+    "Manly Vale": {
+        "station_id": "34016",
+        "road_name_x": "Condamine Street",
+        "post_code": "2093"
+    },
+    "Manton": {
+        "station_id": "94024",
+        "road_name_x": "Yass Valley Way",
+        "post_code": "2582"
+    },
+    "Marlee": {
+        "station_id": "09403",
+        "road_name_x": "Bulga Road",
+        "post_code": "2429"
+    },
+    "Marrangaroo": {
+        "station_id": "99084",
+        "road_name_x": "Castlereagh Highway",
+        "post_code": "2790"
+    },
+    "Marrickville": {
+        "station_id": "18031",
+        "road_name_x": "Sydenham Road",
+        "post_code": "2204"
+    },
+    "Marsfield": {
+        "station_id": "51002",
+        "road_name_x": "Epping Road",
+        "post_code": "2122"
+    },
+    "Marulan": {
+        "station_id": "T0063",
+        "road_name_x": "Hume Highway Hvcs",
+        "post_code": "2579"
+    },
+    "Maryvale": {
+        "station_id": "93036",
+        "road_name_x": "Mitchell Highway",
+        "post_code": "2820"
+    },
+    "Mascot": {
+        "station_id": "16011",
+        "road_name_x": "Botany Road",
+        "post_code": "2020"
+    },
+    "Maude": {
+        "station_id": "97052",
+        "road_name_x": "Sturt Highway",
+        "post_code": "2711"
+    },
+    "Mayfield": {
+        "station_id": "05202",
+        "road_name_x": "Maitland Road",
+        "post_code": "2304"
+    },
+    "Mayfield West": {
+        "station_id": "05285",
+        "road_name_x": "Maitland Road",
+        "post_code": "2304"
+    },
+    "Mays Hill": {
+        "station_id": "68218",
+        "road_name_x": "Burnett Street",
+        "post_code": "2145"
+    },
+    "Mckees Hill": {
+        "station_id": "04098",
+        "road_name_x": "Bruxner Highway",
+        "post_code": "2480"
+    },
+    "Meadow Flat": {
+        "station_id": "6105",
+        "road_name_x": "Great Western Highway",
+        "post_code": "2795"
+    },
+    "Meadowbank": {
+        "station_id": "51214",
+        "road_name_x": "Bank Street",
+        "post_code": "2114"
+    },
+    "Medlow Bath": {
+        "station_id": "99913",
+        "road_name_x": "Great Western Highway",
+        "post_code": "2780"
+    },
+    "Memagong": {
+        "station_id": "94104",
+        "road_name_x": "Milvale Road",
+        "post_code": "2594"
+    },
+    "Menah": {
+        "station_id": "99931",
+        "road_name_x": "Castlereagh Highway",
+        "post_code": "2850"
+    },
+    "Menai": {
+        "station_id": "37023",
+        "road_name_x": "Alfords Point Road",
+        "post_code": "2234"
+    },
+    "Menangle": {
+        "station_id": "07023",
+        "road_name_x": "Remembrance Driveway",
+        "post_code": "2568"
+    },
+    "Menangle Park": {
+        "station_id": "07400",
+        "road_name_x": "Menangle Road",
+        "post_code": "2563"
+    },
+    "Mendooran": {
+        "station_id": "92745",
+        "road_name_x": "Castlereagh Highway",
+        "post_code": "2842"
+    },
+    "Menindee": {
+        "station_id": "98142",
+        "road_name_x": "Pooncarie Road",
+        "post_code": "2879"
+    },
+    "Merah North": {
+        "station_id": "92225",
+        "road_name_x": "Kamilaroi Highway",
+        "post_code": "2388"
+    },
+    "Merewether": {
+        "station_id": "05269",
+        "road_name_x": "City Road",
+        "post_code": "2291"
+    },
+    "Merriwa": {
+        "station_id": "6163",
+        "road_name_x": "Golden Highway",
+        "post_code": "2329"
+    },
+    "Merrylands": {
+        "station_id": "7119-PR",
+        "road_name_x": "Hawkesbury Road",
+        "post_code": "2160"
+    },
+    "Metz": {
+        "station_id": "92394",
+        "road_name_x": "Grafton Road",
+        "post_code": "2350"
+    },
+    "Middle Harbour": {
+        "station_id": "34001",
+        "road_name_x": "Spit Road",
+        "post_code": "2087"
+    },
+    "Milbrodale": {
+        "station_id": "05167",
+        "road_name_x": "Putty Road",
+        "post_code": "2330"
+    },
+    "Millers Forest": {
+        "station_id": "05150",
+        "road_name_x": "Raymond Terrace Road",
+        "post_code": "2324"
+    },
+    "Millingandi": {
+        "station_id": "08802",
+        "road_name_x": "Princes Highway",
+        "post_code": "2549"
+    },
+    "Milperra": {
+        "station_id": "44001",
+        "road_name_x": "Newbridge Road",
+        "post_code": "2214"
+    },
+    "Milroy": {
+        "station_id": "92052",
+        "road_name_x": "Oxley Highway",
+        "post_code": "2380"
+    },
+    "Milsons Point": {
+        "station_id": "01001",
+        "road_name_x": "Bradfield Highway",
+        "post_code": "2061"
+    },
+    "Milvale": {
+        "station_id": "95269",
+        "road_name_x": "Milvale Road",
+        "post_code": "2594"
+    },
+    "Minchinbury": {
+        "station_id": "7274",
+        "road_name_x": "Great Western Highway",
+        "post_code": "2770"
+    },
+    "Mingoola": {
+        "station_id": "91170",
+        "road_name_x": "Bruxner Way",
+        "post_code": "4380"
+    },
+    "Minto": {
+        "station_id": "84015",
+        "road_name_x": "Campbelltown Road",
+        "post_code": "2566"
+    },
+    "Miranda": {
+        "station_id": "7126",
+        "road_name_x": "Kingsway",
+        "post_code": "2228"
+    },
+    "Mirrool": {
+        "station_id": "95098",
+        "road_name_x": "Newell Highway",
+        "post_code": "2665"
+    },
+    "Mitchell": {
+        "station_id": "99847",
+        "road_name_x": "Stewart Street",
+        "post_code": "2795"
+    },
+    "Mitchells Flat": {
+        "station_id": "05535",
+        "road_name_x": "Elderslie Road",
+        "post_code": "2330"
+    },
+    "Moama": {
+        "station_id": "97002",
+        "road_name_x": "Barmah Road",
+        "post_code": "2731"
+    },
+    "Mogo": {
+        "station_id": "08056",
+        "road_name_x": "Princes Highway",
+        "post_code": "2536"
+    },
+    "Mollyan": {
+        "station_id": "92247",
+        "road_name_x": "Mendooran Road",
+        "post_code": "2842"
+    },
+    "Molong": {
+        "station_id": "6169",
+        "road_name_x": "Mitchell Highway",
+        "post_code": "2866"
+    },
+    "Mona Vale": {
+        "station_id": "59012",
+        "road_name_x": "Pittwater Road",
+        "post_code": "2103"
+    },
+    "Monak": {
+        "station_id": "98064",
+        "road_name_x": "Sturt Highway",
+        "post_code": "2738"
+    },
+    "Monterey": {
+        "station_id": "23027",
+        "road_name_x": "The Grand Parade",
+        "post_code": "2217"
+    },
+    "Moonbi": {
+        "station_id": "92033",
+        "road_name_x": "New England Highway",
+        "post_code": "2353"
+    },
+    "Mooney Mooney": {
+        "station_id": "05005",
+        "road_name_x": "Pacific Motorway",
+        "post_code": "2083"
+    },
+    "Moore Park": {
+        "station_id": "02366",
+        "road_name_x": "South Dowling Street",
+        "post_code": "2021"
+    },
+    "Moorebank": {
+        "station_id": "60001",
+        "road_name_x": "Newbridge Road",
+        "post_code": "2170"
+    },
+    "Moorong": {
+        "station_id": "95064",
+        "road_name_x": "Sturt Highway",
+        "post_code": "2650"
+    },
+    "Moree": {
+        "station_id": "91051",
+        "road_name_x": "Gwydir Highway",
+        "post_code": "2400"
+    },
+    "Morundah": {
+        "station_id": "95079",
+        "road_name_x": "Newell Highway",
+        "post_code": "2700"
+    },
+    "Moruya": {
+        "station_id": "08059",
+        "road_name_x": "Princes Highway",
+        "post_code": "2537"
+    },
+    "Morven": {
+        "station_id": "95443",
+        "road_name_x": "Culcairn Holbrook Road",
+        "post_code": "2660"
+    },
+    "Mosman": {
+        "station_id": "22001",
+        "road_name_x": "Military Road",
+        "post_code": "2088"
+    },
+    "Moulamein": {
+        "station_id": "97264",
+        "road_name_x": "Balranald Road",
+        "post_code": "2733"
+    },
+    "Mount Adrah": {
+        "station_id": "94058",
+        "road_name_x": "Hume Highway",
+        "post_code": "2729"
+    },
+    "Mount Burrell": {
+        "station_id": "04367",
+        "road_name_x": "Kyogle Road",
+        "post_code": "2484"
+    },
+    "Mount Colah": {
+        "station_id": "74221",
+        "road_name_x": "Pacific Motorway",
+        "post_code": "2079"
+    },
+    "Mount Druitt": {
+        "station_id": "71082",
+        "road_name_x": "Carlisle Avenue",
+        "post_code": "2770"
+    },
+    "Mount Fairy": {
+        "station_id": "94509",
+        "road_name_x": "Braidwood Road",
+        "post_code": "2580"
+    },
+    "Mount Hutton": {
+        "station_id": "05211",
+        "road_name_x": "Warners Bay Road",
+        "post_code": "2290"
+    },
+    "Mount Keira": {
+        "station_id": "MOHVCS",
+        "road_name_x": "Mount Ousley Road Hvcs",
+        "post_code": "2500"
+    },
+    "Mount Kuring-Gai": {
+        "station_id": "F3FWY002",
+        "road_name_x": "Pacific Motorway",
+        "post_code": "2080"
+    },
+    "Mount Pleasant": {
+        "station_id": "07127",
+        "road_name_x": "New Mount Pleasant Road",
+        "post_code": "2519"
+    },
+    "Mount Thorley": {
+        "station_id": "05481",
+        "road_name_x": "Jerrys Plains Road",
+        "post_code": "2330"
+    },
+    "Mount Victoria": {
+        "station_id": "6188",
+        "road_name_x": "Great Western Highway",
+        "post_code": "2786"
+    },
+    "Mount White": {
+        "station_id": "MWHVCS",
+        "road_name_x": "Pacific Motorway Hvcs",
+        "post_code": "2250"
+    },
+    "Mourquong": {
+        "station_id": "98038",
+        "road_name_x": "Silver City Highway",
+        "post_code": "2739"
+    },
+    "Mudgee": {
+        "station_id": "99269",
+        "road_name_x": "Horatio Street",
+        "post_code": "2850"
+    },
+    "Mulgoa": {
+        "station_id": "87038",
+        "road_name_x": "Mulgoa Road",
+        "post_code": "2745"
+    },
+    "Mullengudgery": {
+        "station_id": "96052",
+        "road_name_x": "Mitchell Highway",
+        "post_code": "2825"
+    },
+    "Mulwala": {
+        "station_id": "95363",
+        "road_name_x": "Melbourne Street",
+        "post_code": "2647"
+    },
+    "Mummulgum": {
+        "station_id": "04109",
+        "road_name_x": "Bruxner Highway",
+        "post_code": "2469"
+    },
+    "Munderoo": {
+        "station_id": "95517",
+        "road_name_x": "Jingellic Road",
+        "post_code": "2653"
+    },
+    "Murray Downs": {
+        "station_id": "97095",
+        "road_name_x": "Swan Hill Road",
+        "post_code": "2734"
+    },
+    "Murrumbateman": {
+        "station_id": "94445",
+        "road_name_x": "Barton Highway",
+        "post_code": "2582"
+    },
+    "Murrumburrah": {
+        "station_id": "94100",
+        "road_name_x": "Burley Griffin Way",
+        "post_code": "2587"
+    },
+    "Murrurundi": {
+        "station_id": "92031",
+        "road_name_x": "New England Highway",
+        "post_code": "2338"
+    },
+    "Murulla": {
+        "station_id": "92330",
+        "road_name_x": "New England Highway",
+        "post_code": "2337"
+    },
+    "Muswellbrook": {
+        "station_id": "05063",
+        "road_name_x": "Aberdeen Street",
+        "post_code": "2333"
+    },
+    "Myall Park": {
+        "station_id": "95309",
+        "road_name_x": "Rankins Springs Road",
+        "post_code": "2681"
+    },
+    "Myocum": {
+        "station_id": "04459",
+        "road_name_x": "Mullumbimby Road",
+        "post_code": "2481"
+    },
+    "NEUTRAL BAY": {
+        "station_id": "21229",
+        "road_name_x": "MILITARY",
+        "post_code": "2089"
+    },
+    "Nabiac": {
+        "station_id": "09008",
+        "road_name_x": "Pacific Highway",
+        "post_code": "2312"
+    },
+    "Nambucca Heads": {
+        "station_id": "09214",
+        "road_name_x": "Pacific Highway",
+        "post_code": "2448"
+    },
+    "Nangus": {
+        "station_id": "94174",
+        "road_name_x": "Nangus Road",
+        "post_code": "2722"
+    },
+    "Narara": {
+        "station_id": "05192",
+        "road_name_x": "Showground Road",
+        "post_code": "2250"
+    },
+    "Naremburn": {
+        "station_id": "33208",
+        "road_name_x": "Flat Rock Drive",
+        "post_code": "2065"
+    },
+    "Narrabeen": {
+        "station_id": "55027",
+        "road_name_x": "Pittwater Road",
+        "post_code": "2101"
+    },
+    "Narrabri": {
+        "station_id": "92289",
+        "road_name_x": "Kamilaroi Highway",
+        "post_code": "2390"
+    },
+    "Narrandera": {
+        "station_id": "95081",
+        "road_name_x": "Newell Highway",
+        "post_code": "2700"
+    },
+    "Nashua": {
+        "station_id": "04045",
+        "road_name_x": "Lismore Road",
+        "post_code": "2479"
+    },
+    "Nelligen": {
+        "station_id": "08004",
+        "road_name_x": "Kings Highway",
+        "post_code": "2536"
+    },
+    "Nelson Bay": {
+        "station_id": "05944",
+        "road_name_x": "Nelson Bay Road",
+        "post_code": "2315"
+    },
+    "Nemingha": {
+        "station_id": "92175",
+        "road_name_x": "Armidale Road",
+        "post_code": "2340"
+    },
+    "Neutral Bay": {
+        "station_id": "21029",
+        "road_name_x": "Military Road",
+        "post_code": "2089"
+    },
+    "New Berrima": {
+        "station_id": "07457",
+        "road_name_x": "Berrima Road",
+        "post_code": "2577"
+    },
+    "New Italy": {
+        "station_id": "04233",
+        "road_name_x": "Pacific Highway",
+        "post_code": "2472"
+    },
+    "New Lambton": {
+        "station_id": "05442",
+        "road_name_x": "St James Road",
+        "post_code": "2305"
+    },
+    "New Lambton Heights": {
+        "station_id": "05016",
+        "road_name_x": "Mccaffrey Drive",
+        "post_code": "2305"
+    },
+    "New Park": {
+        "station_id": "04647",
+        "road_name_x": "Summerland Way",
+        "post_code": "2474"
+    },
+    "Newcastle West": {
+        "station_id": "05274",
+        "road_name_x": "Parry Street",
+        "post_code": "2302"
+    },
+    "Newtown": {
+        "station_id": "02062",
+        "road_name_x": "Enmore Road",
+        "post_code": "2042"
+    },
+    "Nimmitabel": {
+        "station_id": "08171",
+        "road_name_x": "Monaro Highway",
+        "post_code": "2631"
+    },
+    "Nombi": {
+        "station_id": "92055",
+        "road_name_x": "Oxley Highway",
+        "post_code": "2379"
+    },
+    "Norah Head": {
+        "station_id": "05838",
+        "road_name_x": "Wilfred Barrett Drive",
+        "post_code": "2263"
+    },
+    "Noraville": {
+        "station_id": "05645",
+        "road_name_x": "Main Road",
+        "post_code": "2263"
+    },
+    "North Albury": {
+        "station_id": "95676",
+        "road_name_x": "Mate Street",
+        "post_code": "2640"
+    },
+    "North Batemans Bay": {
+        "station_id": "08052",
+        "road_name_x": "Princes Highway",
+        "post_code": "2536"
+    },
+    "North Bourke": {
+        "station_id": "96178",
+        "road_name_x": "Bourke-Milparinka Road",
+        "post_code": "2840"
+    },
+    "North Gosford": {
+        "station_id": "05793",
+        "road_name_x": "Mann Street",
+        "post_code": "2250"
+    },
+    "North Macksville": {
+        "station_id": "09244",
+        "road_name_x": "Pacific Highway",
+        "post_code": "2447"
+    },
+    "North Narrabeen": {
+        "station_id": "55028",
+        "road_name_x": "Pittwater Road",
+        "post_code": "2101"
+    },
+    "North Parramatta": {
+        "station_id": "50224",
+        "road_name_x": "James Ruse Drive",
+        "post_code": "2151"
+    },
+    "North Rocks": {
+        "station_id": "72013",
+        "road_name_x": "James Ruse Drive",
+        "post_code": "2151"
+    },
+    "North Ryde": {
+        "station_id": "52039",
+        "road_name_x": "M2 Motorway",
+        "post_code": "2113"
+    },
+    "North St Marys": {
+        "station_id": "86091",
+        "road_name_x": "Glossop Street",
+        "post_code": "2760"
+    },
+    "North Sydney": {
+        "station_id": "21022",
+        "road_name_x": "Falcon Street",
+        "post_code": "2060"
+    },
+    "North Tamworth": {
+        "station_id": "92492",
+        "road_name_x": "Peel Street",
+        "post_code": "2340"
+    },
+    "North Wahroonga": {
+        "station_id": "F3FWY001",
+        "road_name_x": "Pacific Motorway",
+        "post_code": "2076"
+    },
+    "Northmead": {
+        "station_id": "50054",
+        "road_name_x": "Windsor Road",
+        "post_code": "2152"
+    },
+    "Nowra Hill": {
+        "station_id": "113946",
+        "road_name_x": "Southern Fwy - Site 4",
+        "post_code": "2540"
+    },
+    "Nulkaba": {
+        "station_id": "05540",
+        "road_name_x": "Wine Country Drive",
+        "post_code": "2325"
+    },
+    "Nyngan": {
+        "station_id": "NNGSTC",
+        "road_name_x": "Mitchell Highway",
+        "post_code": "2825"
+    },
+    "O'connell": {
+        "station_id": "99323",
+        "road_name_x": "O'connell Road",
+        "post_code": "2795"
+    },
+    "Oakdale": {
+        "station_id": "07413",
+        "road_name_x": "Burragorang Road",
+        "post_code": "2570"
+    },
+    "Oatlands": {
+        "station_id": "9658",
+        "road_name_x": "Pennant Hills Road",
+        "post_code": "2117"
+    },
+    "Old Junee": {
+        "station_id": "95140",
+        "road_name_x": "Olympic Highway",
+        "post_code": "2652"
+    },
+    "One Tree": {
+        "station_id": "97130",
+        "road_name_x": "Mid Western Highway",
+        "post_code": "2711"
+    },
+    "Orange": {
+        "station_id": "93093",
+        "road_name_x": "Mitchell Highway",
+        "post_code": "2800"
+    },
+    "Orchard Hills": {
+        "station_id": "86001",
+        "road_name_x": "Western Motorway",
+        "post_code": "2748"
+    },
+    "Ourimbah": {
+        "station_id": "05012",
+        "road_name_x": "Pacific Highway",
+        "post_code": "2258"
+    },
+    "Oxford Falls": {
+        "station_id": "55052",
+        "road_name_x": "Wakehurst Parkway",
+        "post_code": "2100"
+    },
+    "Oxley Park": {
+        "station_id": "71014",
+        "road_name_x": "Great Western Highway",
+        "post_code": "2760"
+    },
+    "PADSTOW": {
+        "station_id": "43250",
+        "road_name_x": "HENRY LAWSON",
+        "post_code": "2211"
+    },
+    "PAGEWOOD": {
+        "station_id": "16150",
+        "road_name_x": "WENTWORTH",
+        "post_code": "2035"
+    },
+    "Paddington": {
+        "station_id": "02083",
+        "road_name_x": "Glenmore Road",
+        "post_code": "2021"
+    },
+    "Padstow": {
+        "station_id": "43032",
+        "road_name_x": "Henry Lawson Drive",
+        "post_code": "2211"
+    },
+    "Padstow Heights": {
+        "station_id": "42001",
+        "road_name_x": "Alfords Point Road",
+        "post_code": "2211"
+    },
+    "Pagewood": {
+        "station_id": "16129",
+        "road_name_x": "Wentworth Avenue",
+        "post_code": "2035"
+    },
+    "Pampoolah": {
+        "station_id": "09112",
+        "road_name_x": "Pacific Highway",
+        "post_code": "2430"
+    },
+    "Parkes": {
+        "station_id": "93002",
+        "road_name_x": "Newell Highway",
+        "post_code": "2870"
+    },
+    "Parramatta": {
+        "station_id": "49095",
+        "road_name_x": "James Ruse Drive",
+        "post_code": "2150"
+    },
+    "Paterson": {
+        "station_id": "05427",
+        "road_name_x": "Gresford Road",
+        "post_code": "2421"
+    },
+    "Peak Hill": {
+        "station_id": "93806",
+        "road_name_x": "Caswell Street",
+        "post_code": "2869"
+    },
+    "Peakhurst": {
+        "station_id": "41037",
+        "road_name_x": "Henry Lawson Drive",
+        "post_code": "2210"
+    },
+    "Pelton": {
+        "station_id": "05520",
+        "road_name_x": "Wollombi Road",
+        "post_code": "2325"
+    },
+    "Pembrooke": {
+        "station_id": "09138",
+        "road_name_x": "Pembrooke Road",
+        "post_code": "2446"
+    },
+    "Pennant Hills": {
+        "station_id": "7161",
+        "road_name_x": "Pennant Hills Road",
+        "post_code": "2120"
+    },
+    "Penrith": {
+        "station_id": "86009",
+        "road_name_x": "High Street",
+        "post_code": "2750"
+    },
+    "Penshurst": {
+        "station_id": "41012",
+        "road_name_x": "Forest Road",
+        "post_code": "2222"
+    },
+    "Pheasants Nest": {
+        "station_id": "07736",
+        "road_name_x": "Hume Motorway",
+        "post_code": "2574"
+    },
+    "Piallamore": {
+        "station_id": "92737",
+        "road_name_x": "Nundle Road",
+        "post_code": "2340"
+    },
+    "Picton": {
+        "station_id": "07475",
+        "road_name_x": "Barkers Lodge Road",
+        "post_code": "2571"
+    },
+    "Pimlico": {
+        "station_id": "04264",
+        "road_name_x": "Pacific Highway",
+        "post_code": "2478"
+    },
+    "Pine Valley": {
+        "station_id": "08080",
+        "road_name_x": "Snowy Mountains Highway",
+        "post_code": "2630"
+    },
+    "Pinny Beach": {
+        "station_id": "05002",
+        "road_name_x": "Pacific Highway",
+        "post_code": "2281"
+    },
+    "Plumpton": {
+        "station_id": "71166",
+        "road_name_x": "Rooty Hill Road",
+        "post_code": "2761"
+    },
+    "Point Clare": {
+        "station_id": "05042",
+        "road_name_x": "Brisbane Water Drive",
+        "post_code": "2250"
+    },
+    "Point Frederick": {
+        "station_id": "05985",
+        "road_name_x": "York Street",
+        "post_code": "2250"
+    },
+    "Port Botany": {
+        "station_id": "16012",
+        "road_name_x": "Botany Road",
+        "post_code": "2036"
+    },
+    "Port Kembla": {
+        "station_id": "07261",
+        "road_name_x": "Five Islands Road",
+        "post_code": "2505"
+    },
+    "Port Macquarie": {
+        "station_id": "09126",
+        "road_name_x": "Oxley Highway",
+        "post_code": "2444"
+    },
+    "Portland": {
+        "station_id": "99254",
+        "road_name_x": "Castlereagh Highway",
+        "post_code": "2847"
+    },
+    "Pretty Pine": {
+        "station_id": "97044",
+        "road_name_x": "Cobb Highway",
+        "post_code": "2710"
+    },
+    "Prospect": {
+        "station_id": "70002",
+        "road_name_x": "Western Motorway",
+        "post_code": "2148"
+    },
+    "Pymble": {
+        "station_id": "53001",
+        "road_name_x": "Mona Vale Road",
+        "post_code": "2073"
+    },
+    "Pyrmont": {
+        "station_id": "02271",
+        "road_name_x": "Pyrmont Bridge Road",
+        "post_code": "2009"
+    },
+    "Queanbeyan East": {
+        "station_id": "94151",
+        "road_name_x": "Monaro Street",
+        "post_code": "2620"
+    },
+    "RHODES": {
+        "station_id": "29010",
+        "road_name_x": "HOMEBUSH BAY",
+        "post_code": "2138"
+    },
+    "ROSEVILLE": {
+        "station_id": "53215",
+        "road_name_x": "BOUNDARY",
+        "post_code": "2069"
+    },
+    "RYDE": {
+        "station_id": "51300",
+        "road_name_x": "LANE COVE",
+        "post_code": "2112"
+    },
+    "Raglan": {
+        "station_id": "6107",
+        "road_name_x": "Sydney Road",
+        "post_code": "2795"
+    },
+    "Raleigh": {
+        "station_id": "04141",
+        "road_name_x": "Pacific Highway",
+        "post_code": "2454"
+    },
+    "Ramornie": {
+        "station_id": "04277",
+        "road_name_x": "Gwydir Highway",
+        "post_code": "2460"
+    },
+    "Rankins Springs": {
+        "station_id": "97126",
+        "road_name_x": "Mid Western Highway",
+        "post_code": "2669"
+    },
+    "Rathmines": {
+        "station_id": "05507",
+        "road_name_x": "Wangi Road",
+        "post_code": "2283"
+    },
+    "Ravensworth": {
+        "station_id": "05037",
+        "road_name_x": "New England Highway",
+        "post_code": "2330"
+    },
+    "Raymond Terrace": {
+        "station_id": "05056",
+        "road_name_x": "William Bailey Street",
+        "post_code": "2324"
+    },
+    "Razorback": {
+        "station_id": "07684",
+        "road_name_x": "Menangle Road",
+        "post_code": "2571"
+    },
+    "Red Hill": {
+        "station_id": "92187",
+        "road_name_x": "Manilla Road",
+        "post_code": "2347"
+    },
+    "Redfern": {
+        "station_id": "02384",
+        "road_name_x": "Cleveland Street",
+        "post_code": "2016"
+    },
+    "Redhead": {
+        "station_id": "05210",
+        "road_name_x": "Red Head Road",
+        "post_code": "2290"
+    },
+    "Regents Park": {
+        "station_id": "43216",
+        "road_name_x": "Joseph Street",
+        "post_code": "2143"
+    },
+    "Regentville": {
+        "station_id": "87006",
+        "road_name_x": "Western Motorway",
+        "post_code": "2745"
+    },
+    "Revesby": {
+        "station_id": "42101",
+        "road_name_x": "South Western Motorway",
+        "post_code": "2212"
+    },
+    "Rhine Falls": {
+        "station_id": "08155",
+        "road_name_x": "Snowy Mountains Highway",
+        "post_code": "2630"
+    },
+    "Rhodes": {
+        "station_id": "29001",
+        "road_name_x": "Homebush Bay Drive",
+        "post_code": "2138"
+    },
+    "Richlands": {
+        "station_id": "94204",
+        "road_name_x": "Taralga Road",
+        "post_code": "2580"
+    },
+    "Rixs Creek": {
+        "station_id": "6153",
+        "road_name_x": "New England Highway",
+        "post_code": "2330"
+    },
+    "Rob Roy": {
+        "station_id": "91259",
+        "road_name_x": "Gwydir Highway",
+        "post_code": "2360"
+    },
+    "Robertson": {
+        "station_id": "07311",
+        "road_name_x": "Jamberoo Mountain Road",
+        "post_code": "2577"
+    },
+    "Rockdale": {
+        "station_id": "23020",
+        "road_name_x": "Princes Highway",
+        "post_code": "2216"
+    },
+    "Rockton": {
+        "station_id": "08220",
+        "road_name_x": "Monaro Highway",
+        "post_code": "2632"
+    },
+    "Rocky Glen": {
+        "station_id": "92302",
+        "road_name_x": "Oxley Highway",
+        "post_code": "2357"
+    },
+    "Rooty Hill": {
+        "station_id": "70067",
+        "road_name_x": "Eastern Road",
+        "post_code": "2766"
+    },
+    "Rosehill": {
+        "station_id": "49010",
+        "road_name_x": "James Ruse Drive",
+        "post_code": "2142"
+    },
+    "Roselands": {
+        "station_id": "24014",
+        "road_name_x": "Canterbury Road",
+        "post_code": "2196"
+    },
+    "Roseville": {
+        "station_id": "33013",
+        "road_name_x": "Pacific Highway",
+        "post_code": "2069"
+    },
+    "Round Swamp": {
+        "station_id": "99179",
+        "road_name_x": "Castlereagh Highway",
+        "post_code": "2846"
+    },
+    "Rouse Hill": {
+        "station_id": "71024",
+        "road_name_x": "Windsor Road",
+        "post_code": "2155"
+    },
+    "Rowan": {
+        "station_id": "95176",
+        "road_name_x": "Holbrook Road",
+        "post_code": "2650"
+    },
+    "Rozelle": {
+        "station_id": "20001",
+        "road_name_x": "Western Distributor",
+        "post_code": "2039"
+    },
+    "Russell Vale": {
+        "station_id": "07766",
+        "road_name_x": "Princes Highway",
+        "post_code": "2517"
+    },
+    "Rutherford": {
+        "station_id": "05062",
+        "road_name_x": "New England Highway",
+        "post_code": "2320"
+    },
+    "Rydalmere": {
+        "station_id": "50001",
+        "road_name_x": "Silverwater Road",
+        "post_code": "2116"
+    },
+    "Ryde": {
+        "station_id": "51005",
+        "road_name_x": "Lane Cove Road",
+        "post_code": "2112"
+    },
+    "SANDY HOLLOW": {
+        "station_id": "T6161W",
+        "road_name_x": "GOLDEN",
+        "post_code": "2333"
+    },
+    "ST IVES": {
+        "station_id": "53030",
+        "road_name_x": "BIRDWOOD",
+        "post_code": "2075"
+    },
+    "STRATHFIELD": {
+        "station_id": "28012",
+        "road_name_x": "ROBERTS",
+        "post_code": "2135"
+    },
+    "SUMMER HILL": {
+        "station_id": "25013",
+        "road_name_x": "LIVERPOOL",
+        "post_code": "2130"
+    },
+    "SYLVANIA": {
+        "station_id": "36190",
+        "road_name_x": "PRINCES",
+        "post_code": "2224"
+    },
+    "Salt Ash": {
+        "station_id": "05396",
+        "road_name_x": "Nelson Bay Road",
+        "post_code": "2318"
+    },
+    "San Remo": {
+        "station_id": "05027",
+        "road_name_x": "Pacific Highway",
+        "post_code": "2262"
+    },
+    "Sancrox": {
+        "station_id": "09042",
+        "road_name_x": "Oxley Highway",
+        "post_code": "2446"
+    },
+    "Sandgate": {
+        "station_id": "05321",
+        "road_name_x": "Wallsend Road",
+        "post_code": "2304"
+    },
+    "Sandy Hollow": {
+        "station_id": "05480",
+        "road_name_x": "Merriwa Road",
+        "post_code": "2333"
+    },
+    "Sapphire Beach": {
+        "station_id": "04150",
+        "road_name_x": "Pacific Highway",
+        "post_code": "2450"
+    },
+    "Savernake": {
+        "station_id": "95349",
+        "road_name_x": "Riverina Highway",
+        "post_code": "2646"
+    },
+    "Sawyers Gully": {
+        "station_id": "HEX1",
+        "road_name_x": "Hunter Expressway",
+        "post_code": "2326"
+    },
+    "Scone": {
+        "station_id": "92111",
+        "road_name_x": "Kelly Street",
+        "post_code": "2337"
+    },
+    "Seaforth": {
+        "station_id": "34029",
+        "road_name_x": "Wakehurst Parkway",
+        "post_code": "2092"
+    },
+    "Sefton": {
+        "station_id": "43015",
+        "road_name_x": "Hector Street",
+        "post_code": "2162"
+    },
+    "Seven Hills": {
+        "station_id": "69087",
+        "road_name_x": "Prospect Highway",
+        "post_code": "2147"
+    },
+    "Shell Cove": {
+        "station_id": "07805",
+        "road_name_x": "Dunmore Road",
+        "post_code": "2529"
+    },
+    "Shellharbour": {
+        "station_id": "07676",
+        "road_name_x": "Shellharbour Road",
+        "post_code": "2529"
+    },
+    "Shortland": {
+        "station_id": "05320",
+        "road_name_x": "Sandgate Road",
+        "post_code": "2307"
+    },
+    "Singleton": {
+        "station_id": "05241",
+        "road_name_x": "George Street",
+        "post_code": "2330"
+    },
+    "Singleton Military Area": {
+        "station_id": "05841",
+        "road_name_x": "Mitchell Line Of Road",
+        "post_code": "2331"
+    },
+    "Smithfield": {
+        "station_id": "66027",
+        "road_name_x": "Smithfield Road",
+        "post_code": "2164"
+    },
+    "Snakes Plain": {
+        "station_id": "96047",
+        "road_name_x": "Oxley Highway",
+        "post_code": "2824"
+    },
+    "Somersby": {
+        "station_id": "05015",
+        "road_name_x": "Pacific Motorway",
+        "post_code": "2250"
+    },
+    "South Albury": {
+        "station_id": "95040",
+        "road_name_x": "Hume Highway",
+        "post_code": "2640"
+    },
+    "South Bowenfels": {
+        "station_id": "99236",
+        "road_name_x": "Great Western Highway",
+        "post_code": "2790"
+    },
+    "South Grafton": {
+        "station_id": "04004",
+        "road_name_x": "Craig Street",
+        "post_code": "2460"
+    },
+    "South Gundagai": {
+        "station_id": "94176",
+        "road_name_x": "Gocup Road",
+        "post_code": "2722"
+    },
+    "South Gundurimba": {
+        "station_id": "04095",
+        "road_name_x": "Bruxner Highway",
+        "post_code": "2480"
+    },
+    "South Guyra": {
+        "station_id": "91431",
+        "road_name_x": "Falconer Street",
+        "post_code": "2365"
+    },
+    "South Kempsey": {
+        "station_id": "09141",
+        "road_name_x": "Macleay Valley Way",
+        "post_code": "2440"
+    },
+    "South Pambula": {
+        "station_id": "08109",
+        "road_name_x": "Mount Darragh Road",
+        "post_code": "2549"
+    },
+    "South Tamworth": {
+        "station_id": "92653",
+        "road_name_x": "Scott Road",
+        "post_code": "2340"
+    },
+    "South Wentworthville": {
+        "station_id": "68025",
+        "road_name_x": "Great Western Highway",
+        "post_code": "2145"
+    },
+    "Speers Point": {
+        "station_id": "05616",
+        "road_name_x": "The Esplanade",
+        "post_code": "2284"
+    },
+    "Splitters Creek": {
+        "station_id": "95042",
+        "road_name_x": "Riverina Highway",
+        "post_code": "2640"
+    },
+    "Spring Hill": {
+        "station_id": "07097",
+        "road_name_x": "Five Islands Road",
+        "post_code": "2500"
+    },
+    "Springdale": {
+        "station_id": "95395",
+        "road_name_x": "Burley Griffin Way",
+        "post_code": "2666"
+    },
+    "Springwood": {
+        "station_id": "99815",
+        "road_name_x": "Great Western Highway",
+        "post_code": "2777"
+    },
+    "St Clair": {
+        "station_id": "86002",
+        "road_name_x": "Western Motorway",
+        "post_code": "2759"
+    },
+    "St Ives": {
+        "station_id": "53029",
+        "road_name_x": "Mona Vale Road",
+        "post_code": "2075"
+    },
+    "St Marys": {
+        "station_id": "7123-PR",
+        "road_name_x": "Pages Road",
+        "post_code": "2760"
+    },
+    "St Peters": {
+        "station_id": "18041",
+        "road_name_x": "Canal Road",
+        "post_code": "2044"
+    },
+    "Stanwell Tops": {
+        "station_id": "07756",
+        "road_name_x": "Otford Road",
+        "post_code": "2508"
+    },
+    "Steeple Flat": {
+        "station_id": "08152",
+        "road_name_x": "Monaro Highway",
+        "post_code": "2631"
+    },
+    "Stockinbingal": {
+        "station_id": "94110",
+        "road_name_x": "West Street",
+        "post_code": "2725"
+    },
+    "Stony Creek": {
+        "station_id": "08001",
+        "road_name_x": "Princes Highway",
+        "post_code": "2550"
+    },
+    "Stotts Creek": {
+        "station_id": "04663",
+        "road_name_x": "Tweed Valley Way",
+        "post_code": "2487"
+    },
+    "Strathfield": {
+        "station_id": "28009",
+        "road_name_x": "Centenary Drive",
+        "post_code": "2135"
+    },
+    "Strathfield South": {
+        "station_id": "27147",
+        "road_name_x": "Water Street",
+        "post_code": "2136"
+    },
+    "Stroud": {
+        "station_id": "09929",
+        "road_name_x": "Stroud Hill Road",
+        "post_code": "2425"
+    },
+    "Stroud Road": {
+        "station_id": "09918",
+        "road_name_x": "The Bucketts Way",
+        "post_code": "2415"
+    },
+    "Summer Hill": {
+        "station_id": "25001",
+        "road_name_x": "Liverpool Road",
+        "post_code": "2130"
+    },
+    "Surry Hills": {
+        "station_id": "02038",
+        "road_name_x": "Cleveland Street",
+        "post_code": "2010"
+    },
+    "Sutherland": {
+        "station_id": "38025",
+        "road_name_x": "Princes Highway",
+        "post_code": "2232"
+    },
+    "Sutton": {
+        "station_id": "94225",
+        "road_name_x": "Sutton Road",
+        "post_code": "2620"
+    },
+    "Sutton Forest": {
+        "station_id": "07350",
+        "road_name_x": "Illawarra Highway",
+        "post_code": "2577"
+    },
+    "Swan Vale": {
+        "station_id": "91594",
+        "road_name_x": "Gwydir Highway",
+        "post_code": "2370"
+    },
+    "Sydenham": {
+        "station_id": "18011",
+        "road_name_x": "Princes Highway",
+        "post_code": "2044"
+    },
+    "Sydney": {
+        "station_id": "01003",
+        "road_name_x": "Sydney Harbour Tunnel",
+        "post_code": "2000"
+    },
+    "Sydney Olympic Park": {
+        "station_id": "28119",
+        "road_name_x": "Western Motorway",
+        "post_code": "2127"
+    },
+    "Sylvania": {
+        "station_id": "36208",
+        "road_name_x": "Princes Highway",
+        "post_code": "2224"
+    },
+    "TABLE TOP": {
+        "station_id": "T0591",
+        "road_name_x": "HUME",
+        "post_code": "2640"
+    },
+    "TOMINGLEY": {
+        "station_id": "T6717N",
+        "road_name_x": "CASWELL",
+        "post_code": "2869"
+    },
+    "Tabbita": {
+        "station_id": "95255",
+        "road_name_x": "Kidman Way",
+        "post_code": "2652"
+    },
+    "Table Top": {
+        "station_id": "95133",
+        "road_name_x": "Olympic Highway",
+        "post_code": "2640"
+    },
+    "Tabulam": {
+        "station_id": "91162",
+        "road_name_x": "Bruxner Highway",
+        "post_code": "2469"
+    },
+    "Tahmoor": {
+        "station_id": "07374",
+        "road_name_x": "Remembrance Driveway",
+        "post_code": "2573"
+    },
+    "Talbingo": {
+        "station_id": "95371",
+        "road_name_x": "Snowy Mountains Highway",
+        "post_code": "2720"
+    },
+    "Taminda": {
+        "station_id": "92179",
+        "road_name_x": "Gunnedah Road",
+        "post_code": "2340"
+    },
+    "Tannabar": {
+        "station_id": "92003",
+        "road_name_x": "Newell Highway",
+        "post_code": "2357"
+    },
+    "Tarcutta": {
+        "station_id": "95027",
+        "road_name_x": "Hume Highway",
+        "post_code": "2652"
+    },
+    "Taree South": {
+        "station_id": "09110",
+        "road_name_x": "The Bucketts Way",
+        "post_code": "2430"
+    },
+    "Taren Point": {
+        "station_id": "36002",
+        "road_name_x": "Taren Point Road",
+        "post_code": "2229"
+    },
+    "Tarlo": {
+        "station_id": "94803",
+        "road_name_x": "Taralga Road",
+        "post_code": "2580"
+    },
+    "Tarro": {
+        "station_id": "05055",
+        "road_name_x": "New England Highway",
+        "post_code": "2322"
+    },
+    "Temora": {
+        "station_id": "95154",
+        "road_name_x": "Goldfields Way",
+        "post_code": "2666"
+    },
+    "Tenterfield": {
+        "station_id": "91029",
+        "road_name_x": "New England Highway",
+        "post_code": "2372"
+    },
+    "Teralba": {
+        "station_id": "05976",
+        "road_name_x": "Five Islands Road",
+        "post_code": "2284"
+    },
+    "Terrey Hills": {
+        "station_id": "57012",
+        "road_name_x": "Mona Vale Road",
+        "post_code": "2084"
+    },
+    "Terrigal": {
+        "station_id": "05125",
+        "road_name_x": "Terrigal Drive",
+        "post_code": "2260"
+    },
+    "The Entrance North": {
+        "station_id": "05839",
+        "road_name_x": "Wilfred Barrett Drive",
+        "post_code": "2261"
+    },
+    "The Pilliga": {
+        "station_id": "92742",
+        "road_name_x": "Newell Highway",
+        "post_code": "2388"
+    },
+    "The Risk": {
+        "station_id": "04596",
+        "road_name_x": "Risk Road",
+        "post_code": "2474"
+    },
+    "The Rock": {
+        "station_id": "95551",
+        "road_name_x": "Olympic Highway",
+        "post_code": "2655"
+    },
+    "Thirroul": {
+        "station_id": "07752",
+        "road_name_x": "Lawrence Hargrave Drive",
+        "post_code": "2515"
+    },
+    "Thora": {
+        "station_id": "04315",
+        "road_name_x": "Waterfall Way",
+        "post_code": "2454"
+    },
+    "Thornleigh": {
+        "station_id": "74085",
+        "road_name_x": "The Esplanade",
+        "post_code": "2120"
+    },
+    "Thornton": {
+        "station_id": "05058",
+        "road_name_x": "New England Highway",
+        "post_code": "2322"
+    },
+    "Thrumster": {
+        "station_id": "09170",
+        "road_name_x": "John Oxley Drive",
+        "post_code": "2444"
+    },
+    "Tianjara": {
+        "station_id": "07439",
+        "road_name_x": "Braidwood Road",
+        "post_code": "2622"
+    },
+    "Tilba Tilba": {
+        "station_id": "08334",
+        "road_name_x": "Princes Highway",
+        "post_code": "2546"
+    },
+    "Tintinhull": {
+        "station_id": "92757",
+        "road_name_x": "New England Highway",
+        "post_code": "2352"
+    },
+    "Tirrannaville": {
+        "station_id": "94804",
+        "road_name_x": "Braidwood Road",
+        "post_code": "2580"
+    },
+    "Tocal": {
+        "station_id": "05849",
+        "road_name_x": "Tocal Road",
+        "post_code": "2421"
+    },
+    "Tocumwal": {
+        "station_id": "97029",
+        "road_name_x": "Newell Highway",
+        "post_code": "2714"
+    },
+    "Tomago": {
+        "station_id": "05001",
+        "road_name_x": "Pacific Highway",
+        "post_code": "2322"
+    },
+    "Tomingley": {
+        "station_id": "6149",
+        "road_name_x": "Newell Highway",
+        "post_code": "2869"
+    },
+    "Toronto": {
+        "station_id": "05096",
+        "road_name_x": "Awaba Road",
+        "post_code": "2283"
+    },
+    "Towradgi": {
+        "station_id": "07801",
+        "road_name_x": "Memorial Drive",
+        "post_code": "2518"
+    },
+    "Tuggerah": {
+        "station_id": "05049",
+        "road_name_x": "Wyong Road",
+        "post_code": "2259"
+    },
+    "Tullakool": {
+        "station_id": "97087",
+        "road_name_x": "Moulamein Road",
+        "post_code": "2732"
+    },
+    "Tullarwalla": {
+        "station_id": "07466",
+        "road_name_x": "Sussex Inlet Road",
+        "post_code": "2540"
+    },
+    "Tumbarumba": {
+        "station_id": "95195",
+        "road_name_x": "Wagga Road",
+        "post_code": "2653"
+    },
+    "Tumbi Umbi": {
+        "station_id": "05154",
+        "road_name_x": "Morgan Avenue",
+        "post_code": "2261"
+    },
+    "Tumblong": {
+        "station_id": "95478",
+        "road_name_x": "Adelong Road",
+        "post_code": "2729"
+    },
+    "Tumut": {
+        "station_id": "95104",
+        "road_name_x": "Snowy Mountains Highway",
+        "post_code": "2720"
+    },
+    "Tuncurry": {
+        "station_id": "09405",
+        "road_name_x": "The Lakes Way",
+        "post_code": "2428"
+    },
+    "Turlinjah": {
+        "station_id": "08129",
+        "road_name_x": "Princes Highway",
+        "post_code": "2537"
+    },
+    "Turvey Park": {
+        "station_id": "95412",
+        "road_name_x": "Bourke Street",
+        "post_code": "2650"
+    },
+    "Tweed Heads South": {
+        "station_id": "04010",
+        "road_name_x": "Pacific Motorway",
+        "post_code": "2486"
+    },
+    "Twelve Mile Creek": {
+        "station_id": "05083",
+        "road_name_x": "Pacific Highway",
+        "post_code": "2324"
+    },
+    "Ulladulla": {
+        "station_id": "07368",
+        "road_name_x": "Princes Highway",
+        "post_code": "2539"
+    },
+    "Ultimo": {
+        "station_id": "02230",
+        "road_name_x": "Wattle Street",
+        "post_code": "2007"
+    },
+    "Umina Beach": {
+        "station_id": "05108",
+        "road_name_x": "West Street",
+        "post_code": "2257"
+    },
+    "Unanderra": {
+        "station_id": "07220",
+        "road_name_x": "Five Islands Road",
+        "post_code": "2526"
+    },
+    "Uralla": {
+        "station_id": "92502",
+        "road_name_x": "Bridge Street",
+        "post_code": "2358"
+    },
+    "Urana": {
+        "station_id": "95211",
+        "road_name_x": "Brookong Creek Road",
+        "post_code": "2645"
+    },
+    "Valla": {
+        "station_id": "6180",
+        "road_name_x": "Pacific Highway",
+        "post_code": "2448"
+    },
+    "Valley Heights": {
+        "station_id": "99198",
+        "road_name_x": "Great Western Highway",
+        "post_code": "2777"
+    },
+    "Verges Creek": {
+        "station_id": "6196",
+        "road_name_x": "Pacific Highway",
+        "post_code": "2440"
+    },
+    "Villawood": {
+        "station_id": "44002",
+        "road_name_x": "Hume Highway",
+        "post_code": "2163"
+    },
+    "WATERFALL": {
+        "station_id": "37006",
+        "road_name_x": "YANAGANG",
+        "post_code": "2233"
+    },
+    "WILLOUGHBY": {
+        "station_id": "33052",
+        "road_name_x": "WILLOUGHBY",
+        "post_code": "MISSING"
+    },
+    "Wagga Wagga": {
+        "station_id": "95143",
+        "road_name_x": "Baylis Street",
+        "post_code": "2650"
+    },
+    "Wahroonga": {
+        "station_id": "53209",
+        "road_name_x": "Pacific Highway",
+        "post_code": "2076"
+    },
+    "Wakool": {
+        "station_id": "97383",
+        "road_name_x": "Wakool Road",
+        "post_code": "2710"
+    },
+    "Walbundrie": {
+        "station_id": "95338",
+        "road_name_x": "Munyaplah Boundary Road",
+        "post_code": "2642"
+    },
+    "Walcha": {
+        "station_id": "92677",
+        "road_name_x": "Thunderbolts Way",
+        "post_code": "2354"
+    },
+    "Walgett": {
+        "station_id": "96044",
+        "road_name_x": "Castlereagh Highway",
+        "post_code": "2832"
+    },
+    "Walla Walla": {
+        "station_id": "95440",
+        "road_name_x": "Walbundrie Road",
+        "post_code": "2659"
+    },
+    "Wallabadah": {
+        "station_id": "9572",
+        "road_name_x": "New England Highway",
+        "post_code": "2343"
+    },
+    "Wallacia": {
+        "station_id": "87099",
+        "road_name_x": "Silverdale Road",
+        "post_code": "2745"
+    },
+    "Wallaga Lake": {
+        "station_id": "08105",
+        "road_name_x": "Wallaga Lake Road",
+        "post_code": "2546"
+    },
+    "Wallagoot": {
+        "station_id": "08362",
+        "road_name_x": "Sapphire Coast Drive",
+        "post_code": "2550"
+    },
+    "Wallamore": {
+        "station_id": "92002",
+        "road_name_x": "Oxley Highway",
+        "post_code": "2340"
+    },
+    "Wallaroo": {
+        "station_id": "94184",
+        "road_name_x": "Barton Highway",
+        "post_code": "2618"
+    },
+    "Wallendbeen": {
+        "station_id": "94077",
+        "road_name_x": "Olympic Highway",
+        "post_code": "2588"
+    },
+    "Wallsend": {
+        "station_id": "05024",
+        "road_name_x": "Minmi Road",
+        "post_code": "2287"
+    },
+    "Wamberal": {
+        "station_id": "05914",
+        "road_name_x": "The Entrance Road",
+        "post_code": "2260"
+    },
+    "Wandook": {
+        "station_id": "97252",
+        "road_name_x": "Conargo Road",
+        "post_code": "2710"
+    },
+    "Waratah": {
+        "station_id": "05207",
+        "road_name_x": "Maud Street",
+        "post_code": "2298"
+    },
+    "Wardell": {
+        "station_id": "6116",
+        "road_name_x": "Pacific Highway",
+        "post_code": "2477"
+    },
+    "Warialda": {
+        "station_id": "91078",
+        "road_name_x": "Gwydir Highway",
+        "post_code": "2402"
+    },
+    "Warilla": {
+        "station_id": "07287",
+        "road_name_x": "Shellharbour Road",
+        "post_code": "2528"
+    },
+    "Warners Bay": {
+        "station_id": "05657",
+        "road_name_x": "King Street",
+        "post_code": "2282"
+    },
+    "Warrawee": {
+        "station_id": "53003",
+        "road_name_x": "Pacific Highway",
+        "post_code": "2074"
+    },
+    "Warrawong": {
+        "station_id": "07540",
+        "road_name_x": "King Street",
+        "post_code": "2502"
+    },
+    "Waterfall": {
+        "station_id": "37005",
+        "road_name_x": "Princes Highway",
+        "post_code": "2233"
+    },
+    "Waterloo": {
+        "station_id": "02291",
+        "road_name_x": "Lachlan Street",
+        "post_code": "2017"
+    },
+    "Waterview Heights": {
+        "station_id": "04153",
+        "road_name_x": "Gwydir Highway",
+        "post_code": "2460"
+    },
+    "Wattle Springs": {
+        "station_id": "92084",
+        "road_name_x": "Newell Highway",
+        "post_code": "2357"
+    },
+    "Wauchope": {
+        "station_id": "09130",
+        "road_name_x": "Oxley Highway",
+        "post_code": "2446"
+    },
+    "Weethalle": {
+        "station_id": "95281",
+        "road_name_x": "Mid Western Highway",
+        "post_code": "2669"
+    },
+    "Weismantels": {
+        "station_id": "09919",
+        "road_name_x": "The Bucketts Way",
+        "post_code": "2415"
+    },
+    "Welby": {
+        "station_id": "07379",
+        "road_name_x": "Old Hume Highway",
+        "post_code": "2575"
+    },
+    "Wentworth": {
+        "station_id": "98204",
+        "road_name_x": "Adams Street",
+        "post_code": "2648"
+    },
+    "Wentworth Falls": {
+        "station_id": "99042",
+        "road_name_x": "Great Western Highway",
+        "post_code": "2782"
+    },
+    "Wentworthville": {
+        "station_id": "50388",
+        "road_name_x": "Darcy Road",
+        "post_code": "2145"
+    },
+    "Werrington": {
+        "station_id": "86008",
+        "road_name_x": "Great Western Highway",
+        "post_code": "2747"
+    },
+    "West Ballina": {
+        "station_id": "04039",
+        "road_name_x": "Pacific Highway",
+        "post_code": "2478"
+    },
+    "West Gosford": {
+        "station_id": "05137",
+        "road_name_x": "Manns Road",
+        "post_code": "2250"
+    },
+    "West Pennant Hills": {
+        "station_id": "74030",
+        "road_name_x": "Pennant Hills Road",
+        "post_code": "2125"
+    },
+    "West Pymble": {
+        "station_id": "52014",
+        "road_name_x": "Lane Cove Road",
+        "post_code": "2073"
+    },
+    "West Ryde": {
+        "station_id": "51213",
+        "road_name_x": "Victoria Road",
+        "post_code": "2114"
+    },
+    "West Wallsend": {
+        "station_id": "05095",
+        "road_name_x": "Pacific Motorway",
+        "post_code": "2286"
+    },
+    "West Wollongong": {
+        "station_id": "07095",
+        "road_name_x": "Mount Keira Road",
+        "post_code": "2500"
+    },
+    "West Wyalong": {
+        "station_id": "95092",
+        "road_name_x": "Main Street",
+        "post_code": "2671"
+    },
+    "Westdale": {
+        "station_id": "6168",
+        "road_name_x": "Oxley Highway",
+        "post_code": "2340"
+    },
+    "Westmead": {
+        "station_id": "50387",
+        "road_name_x": "Briens Road",
+        "post_code": "2145"
+    },
+    "Wetherill Park": {
+        "station_id": "66245",
+        "road_name_x": "The Horsley Drive",
+        "post_code": "2164"
+    },
+    "Whiporie": {
+        "station_id": "04672",
+        "road_name_x": "Summerland Way",
+        "post_code": "2469"
+    },
+    "Whitebridge": {
+        "station_id": "05609",
+        "road_name_x": "Dudley Road",
+        "post_code": "2290"
+    },
+    "Whittingham": {
+        "station_id": "05003",
+        "road_name_x": "New England Highway",
+        "post_code": "2330"
+    },
+    "Whitton": {
+        "station_id": "95242",
+        "road_name_x": "Whitton Darlington Point Road",
+        "post_code": "2705"
+    },
+    "Wiangaree": {
+        "station_id": "04199",
+        "road_name_x": "Summerland Way",
+        "post_code": "2474"
+    },
+    "Wickham": {
+        "station_id": "05209",
+        "road_name_x": "Hannell Street",
+        "post_code": "2293"
+    },
+    "Widgelli": {
+        "station_id": "95244",
+        "road_name_x": "Irrigation Way",
+        "post_code": "2680"
+    },
+    "Wilberforce": {
+        "station_id": "06113",
+        "road_name_x": "Putty Road",
+        "post_code": "2756"
+    },
+    "Wiley Park": {
+        "station_id": "24008",
+        "road_name_x": "King Georges Road",
+        "post_code": "2195"
+    },
+    "Willbriggie": {
+        "station_id": "95317",
+        "road_name_x": "Kidman Way",
+        "post_code": "2680"
+    },
+    "Williamtown": {
+        "station_id": "05191",
+        "road_name_x": "Nelson Bay Road",
+        "post_code": "2318"
+    },
+    "Willoughby": {
+        "station_id": "33098",
+        "road_name_x": "Willoughby Road",
+        "post_code": "2068"
+    },
+    "Willow Tree": {
+        "station_id": "92043",
+        "road_name_x": "New England Highway",
+        "post_code": "2339"
+    },
+    "Wilton": {
+        "station_id": "07363",
+        "road_name_x": "Picton Road",
+        "post_code": "2571"
+    },
+    "Windang": {
+        "station_id": "7220",
+        "road_name_x": "Windang Road",
+        "post_code": "2528"
+    },
+    "Windradyne": {
+        "station_id": "99911",
+        "road_name_x": "Mitchell Highway",
+        "post_code": "2795"
+    },
+    "Windsor": {
+        "station_id": "88046",
+        "road_name_x": "Bridge Street",
+        "post_code": "2756"
+    },
+    "Wolli Creek": {
+        "station_id": "23001",
+        "road_name_x": "Princes Highway",
+        "post_code": "2205"
+    },
+    "Wollongong": {
+        "station_id": "07089",
+        "road_name_x": "Crown Street",
+        "post_code": "2500"
+    },
+    "Wombat": {
+        "station_id": "94105",
+        "road_name_x": "Olympic Highway",
+        "post_code": "2587"
+    },
+    "Wondalga": {
+        "station_id": "95190",
+        "road_name_x": "Wondalga Road",
+        "post_code": "2729"
+    },
+    "Wongarbon": {
+        "station_id": "93828",
+        "road_name_x": "Mitchell Highway",
+        "post_code": "2831"
+    },
+    "Woodburn": {
+        "station_id": "04261",
+        "road_name_x": "River Street",
+        "post_code": "2472"
+    },
+    "Woodenbong": {
+        "station_id": "04296",
+        "road_name_x": "Unumgar Street",
+        "post_code": "2476"
+    },
+    "Woodford": {
+        "station_id": "99203",
+        "road_name_x": "Great Western Highway",
+        "post_code": "2778"
+    },
+    "Woodlands": {
+        "station_id": "07407",
+        "road_name_x": "Old Hume Highway",
+        "post_code": "2575"
+    },
+    "Woodstock": {
+        "station_id": "93895",
+        "road_name_x": "Mid Western Highway",
+        "post_code": "2793"
+    },
+    "Woolbrook": {
+        "station_id": "92702",
+        "road_name_x": "Oxley Highway",
+        "post_code": "2354"
+    },
+    "Woolgoolga": {
+        "station_id": "04251",
+        "road_name_x": "Solitary Islands Way",
+        "post_code": "2456"
+    },
+    "Woolooware": {
+        "station_id": "7162",
+        "road_name_x": "Kingsway",
+        "post_code": "2230"
+    },
+    "Woombah": {
+        "station_id": "04123",
+        "road_name_x": "Pacific Highway",
+        "post_code": "2469"
+    },
+    "Woronora": {
+        "station_id": "36188",
+        "road_name_x": "River Road",
+        "post_code": "2232"
+    },
+    "Woy Woy": {
+        "station_id": "05043",
+        "road_name_x": "Brisbane Water Drive",
+        "post_code": "2256"
+    },
+    "Wyalong": {
+        "station_id": "6142",
+        "road_name_x": "Newell Highway",
+        "post_code": "2671"
+    },
+    "Wyee": {
+        "station_id": "05222",
+        "road_name_x": "Pacific Motorway",
+        "post_code": "2259"
+    },
+    "Wyoming": {
+        "station_id": "05143",
+        "road_name_x": "Henry Parry Drive",
+        "post_code": "2250"
+    },
+    "Wyong": {
+        "station_id": "05007",
+        "road_name_x": "Pacific Motorway",
+        "post_code": "2259"
+    },
+    "Yagoona": {
+        "station_id": "43014",
+        "road_name_x": "Hume Highway",
+        "post_code": "2199"
+    },
+    "Yallah": {
+        "station_id": "07035",
+        "road_name_x": "Princes Highway",
+        "post_code": "2530"
+    },
+    "Yanga": {
+        "station_id": "97179",
+        "road_name_x": "Sturt Highway",
+        "post_code": "2711"
+    },
+    "Yarra": {
+        "station_id": "6109",
+        "road_name_x": "Federal Highway",
+        "post_code": "2580"
+    },
+    "Yass": {
+        "station_id": "94002",
+        "road_name_x": "Hume Highway",
+        "post_code": "2582"
+    },
+    "Yathella": {
+        "station_id": "95138",
+        "road_name_x": "Olympic Highway",
+        "post_code": "2650"
+    },
+    "Yellow Pinch": {
+        "station_id": "08035",
+        "road_name_x": "Princes Highway",
+        "post_code": "2548"
+    },
+    "Young": {
+        "station_id": "94078",
+        "road_name_x": "Olympic Highway",
+        "post_code": "2594"
+    },
+    "Zetland": {
+        "station_id": "13171",
+        "road_name_x": "Dowling Street",
+        "post_code": "2017"
+    }
+}
